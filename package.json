@@ -1,7 +1,5 @@
 {
   "name": "iptv",
-  "version": "0.4.0",
-  "description": "Collection of 6000+ free IPTV channels from all over the world",
   "keywords": [
     "iptv",
     "playlist",
@@ -12,7 +10,7 @@
   "scripts": {
     "test": "node test/index.js",
     "generate": "node helpers/generate.js",
-    "format": "node helpers/formatter.js"
+    "format": "node helpers/format.js"
   },
   "repository": {
     "type": "git",
@@ -27,7 +25,9 @@
   "homepage": "https://github.com/freearhey/iptv#readme",
   "dependencies": {},
   "devDependencies": {
-    "axios": "^0.18.0",
-    "playlist-parser": "0.0.12"
+    "axios": ">=0.18.1",
+    "m3u8-file-parser": "^0.2.1",
+    "playlist-parser": "0.0.12",
+    "xmldom": "^0.1.27"
   }
 }
