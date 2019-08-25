@@ -1,33 +1,11 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png" group-title="BOSNIA",777 Tehnika TV
-http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",AL JAZEERA BALKANS [1080p]
-http://178.132.6.97:/JazzeraAL1/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",AL JAZEERA BALKANS [360p]
-http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canales Miscelaneos",BNTV Bosnia SD
+#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-exyu.xml.gz"
+#EXTINF:-1 tvg-id="Al Jazeera-EXYU" tvg-name="Al Jazeera-EXYU" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/aljazeera_balkans-logo.png" group-title="News",Al Jazeera Balkans
+http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/160.m3u8
+#EXTINF:-1 tvg-id="BN Televizija-EXYU" tvg-name="BN Televizija-EXYU" tvg-logo="https://i.imgur.com/8UD164r.png" group-title="",BN Televizija
 http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United Arab Emirates PREMIUM-SERVER4",Hidayah-Bosnian
-http://62.210.141.179:8000/live/ibrahim/123456/58.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RTV 7 Tuzla
-http://178.132.6.97:8080/TV7TUZLA1/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RTV Bugojno
-http://178.132.6.97:8080/TVBugojno1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RTV TK
-http://178.132.6.97:8080/TVTK1/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RTV Vikom [288p]
-http://178.132.6.97:8080/a1vikom1/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV",RTV Zenica
-http://178.132.6.97:8080/RTVZenica1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SLON Extra
-http://178.132.6.97:8080/RTV:SLON1/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TELEVIZIJA 5
+#EXTINF:-1 tvg-id="OBN-EXYU" tvg-name="OBN-EXYU" tvg-logo="https://i.imgur.com/zkcs4P9.png" group-title="",OBN
+http://bos.00387.info:27979/OBNSAT/index.m3u8
+#EXTINF:-1 tvg-id="RTV USK-EXYU" tvg-name="RTV USK-EXYU" tvg-logo="https://i.imgur.com/1Btvotr.png" group-title="",RTV USK
+http://ott.dobratv.net:8888/rtvusk/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hdwjkYa.png" group-title="",Televizija 5
 http://37.59.21.217:8809/live/tv5web.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvtopsound.com/design/images/logo-novi-7.png" group-title="BOSNIA",Top Sound
-http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TUZLANSKI KANTON
-http://178.132.6.97:8080/TVTK1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TV Vogosca
-http://178.132.6.97:8080/TVVogosca1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TVSA HD
-http://178.132.6.97:8080/BA:TVSarajevo1/playlist.m3u8
