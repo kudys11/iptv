@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:0, odc.1
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/55/84/35584/7402986.2.jpg", odc.1
 http://patrz.pl/static/uploaded/video/177/1777/177780/1b0ae4ca192a405877e7be9d79bdd18c_720.mp4
-#EXTINF:0, odc.2
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/55/84/35584/7402986.2.jpg", odc.2
 http://patrz.pl/static/uploaded/video/177/1776/177675/5bd91067803be177498c88413377c062_720.mp4
-#EXTINF:0, odc.3
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/55/84/35584/7402986.2.jpg", odc.3
 http://patrz.pl/static/uploaded/video/177/1777/177716/93d97411763ca2f3ac2c45c0da09777d_720.mp4
-#EXTINF:0, odc.4
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/55/84/35584/7402986.2.jpg", odc.4
 http://patrz.pl/static/uploaded/video/177/1776/177654/da07cf06da477e595380613bb4eb2efd_720.mp4
-#EXTINF:0, odc.5
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/55/84/35584/7402986.2.jpg", odc.5
 http://patrz.pl/static/uploaded/video/177/1776/177612/942eba82ac2960041d89413470ab3b0b_720.mp4
-#EXTINF:0, odc.6
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/55/84/35584/7402986.2.jpg", odc.6
 http://patrz.pl/static/uploaded/video/177/1776/177617/b0f6bd907c35ea90cbaa5f258adceb39_720.mp4
-#EXTINF:0, odc.7
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/55/84/35584/7402986.2.jpg", odc.7
 http://patrz.pl/static/uploaded/video/177/1777/177770/0e5b826f6d827ff817759edec9faf8e4_720.mp4
-#EXTINF:0, odc.8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/55/84/35584/7402986.2.jpg", odc.8
 http://patrz.pl/static/uploaded/video/177/1776/177680/88d7383aeab155a9f12abd63e733012a_720.mp4
-#EXTINF:0, odc.9
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/55/84/35584/7402986.2.jpg", odc.9
 http://patrz.pl/static/uploaded/video/177/1776/177658/a35b4c3ca2cc15f9da22584340f1f85c_720.mp4
-#EXTINF:0, odc.10
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/55/84/35584/7402986.2.jpg", odc.10
 http://patrz.pl/static/uploaded/video/177/1776/177620/e385b3b7ade7474fbeccd4182fba2d77_720.mp4
