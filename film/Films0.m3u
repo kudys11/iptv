@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/02/44/600244/7520405.2.jpg",(2011)10 lat
 http://207.110.52.49/vod/pol/2011-2015/2012/10.Years.2012.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/25/85/602585/7531798.2.jpg",(2013)1000 lat po Ziemi
@@ -1174,56 +1175,6 @@ http://207.110.52.49/vod/pol/2011-2015/2012/An.Officer.And.A.Murderer.2012.mp4/i
 http://207.110.52.49/vod/pol/2011-2015/2012/Fire.With.Fire.2012.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/30/02/523002/7580037.3.jpg",(2013)Oldboy Zemsta jest cierpliwa
 http://207.110.52.49/vod/pol/2011-2015/2013/Oldboy.2013.mp4/index.m3u8
-#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/02/03/780203/7864500.3.jpg",Final Score (2018)
-http://patrz.pl/static/uploaded/video/169/1696/169654/a191d22f174f56588f92756342fd8fb9_720.mp4
-#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/44/35/594435/7821289.3.jpg",Bleach (2018)
-http://patrz.pl/static/uploaded/video/169/1696/169653/b7a3808d1f1e0395e6f2e51a0196137a_720.mp4
-#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/65/21/306521/7197166.3.jpg",Wszyscy kochają Mandy Lane (2006)
-http://patrz.pl/static/uploaded/video/169/1696/169652/bd79c34a1ecdc355c2dd258567f68423_240.mp4
-#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/33/41/33341/7733266.3.jpg",The Blob (1988)
-http://patrz.pl/static/uploaded/video/171/1714/171428/4be554a9ef896e85ef9c72139a8c9cc9_240.mp4
-#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/57/31/775731/7839487.3.jpg",Future World (2018)
-http://patrz.pl/static/uploaded/video/169/1698/169810/e646261e0760476d5ad699c29bc72271_720.mp4
-#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/28/43/592843/7685142.3.jpg",Wiek Adaline (2015)
-http://patrz.pl/static/uploaded/video/169/1698/169809/7f1a31c1265de7da4f0afec0355dc1b0_720.mp4
-#EXTINF:-1 tvg-logo="https://cont4.naekranie.pl/wp-content/uploads/2017/12/blisko%C5%9B%C4%87.jpg",Bliskosc (2017)
-http://patrz.pl/static/uploaded/video/169/1697/169734/421c4602e8b0a265a6a752a01385f559_240.mp4
-#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/38/27/793827/7856501.3.jpg",Grzeczny grzesznik (2018)
-http://patrz.pl/static/uploaded/video/169/1697/169731/7172856a578b5678517d69e893f37ed7_720.mp4
-#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/37/30/753730/7850726.3.jpg",Człowiek bez pamięci (2017)
-http://patrz.pl/static/uploaded/video/169/1696/169657/07ff50761490909384f5aaf62d20533c_720.mp4
-#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/09/12/770912/7820605.3.jpg",Legenda o górskim olbrzymie Askeladden
-http://patrz.pl/static/uploaded/video/169/1696/169645/f323d0b2dc824a9f3f7e5ebd36645508_240.mp4
-#EXTINF:-1 tvg-logo="https://i1.fdbimg.pl/73no2by1/2000x2899_pb6q5g.jpg",Co ludzie powiedza (2017)
-http://patrz.pl/static/uploaded/video/169/1696/169643/d6331ddfdd700b5f437e42abddaa643c_240.mp4
-#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/11/21/751121/7771437.6.jpg",Autopsja Jane Doe (2016)
-http://patrz.pl/static/uploaded/video/169/1695/169515/8d197007d24519ba24f00e392a0d9c25_240.mp4
-#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/81/72/808172/7846552.3.jpg",Włamanie (2018) PL
-http://patrz.pl/static/uploaded/video/169/1695/169513/59535d516949ef4a946aee156f85c810_240.mp4
-#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/73/63/707363/7788844.3.jpg",W ukryciu (2016)
-http://patrz.pl/static/uploaded/video/169/1695/169503/79d884dfabae2f4f506ea6f1f4579918_720.mp4
-#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/20/15/812015/7863750.3.jpg",Geokatastrofa (2017)
-http://patrz.pl/static/uploaded/video/169/1694/169499/90cfdff69569963d3c996a51d634fc2c_720.mp4
-#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/81/91/808191/7853179.3.jpg",Kawalerskie życie (2017)
-http://patrz.pl/static/uploaded/video/169/1695/169502/b096ec5fb6fe2ea0c149204683179570_720.mp4
-#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/53/82/695382/7752351.3.jpg",Cuda (2014)
-http://patrz.pl/static/uploaded/video/169/1694/169479/a358ae5ef3a1090e9ceda334ce40d7a9_480.mp4
-#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/81/07/758107/7757844.3.jpg",Fender Bender (2016)
-http://patrz.pl/static/uploaded/video/169/1694/169438/82481b15ca824b54936ad6562edd777f_240.mp4
-#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/41/49/714149/7844365.3.jpg",Solo Star Wars Story 2018
-http://patrz.pl/static/uploaded/video/169/1694/169435/8edc983fad896f5a18cbde556a6c3fe0_240.mp4
-#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/53/58/805358/7856184.3.jpg",The Most Assassinated Woman the World 2018
-http://patrz.pl/static/uploaded/video/169/1693/169393/df0adc71bbb8fdf391ff9d34c6a72b41_240.mp4
-#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/74/44/757444/7844105.3.jpg",Ocean's 8 (2018)
-http://patrz.pl/static/uploaded/video/169/1693/169378/504731961859bdfdedd06a39486475a0_480.mp4
-#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/32/20/713220/7857539.3.jpg",Delirium (2018)
-http://patrz.pl/static/uploaded/video/169/1693/169369/d062a408b4ccd64239da56f114d3de8d_240.mp4
-#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/71/51/807151/7863672.3.jpg",UFO (2018)
-http://patrz.pl/static/uploaded/video/169/1693/169368/ba002cc71ada99f066e52184b0ad7885_480.mp4
-#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/20/21/782021/7837554.3.jpg",Bliźnięta (2017)
-http://patrz.pl/static/uploaded/video/169/1693/169349/997ac209332505a0ef7b6f3c6c97b429_720.mp4
-#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/07/88/788/7726115.6.jpg",Lake Placid Legacy (2018)
-http://patrz.pl/static/uploaded/video/169/1692/169293/d196ba71912a14816459158159e1b983_720.mp4
 #EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/79/42/627942/7564067.3.jpg",(2013)Anna - Mindscape
 http://207.110.52.49/vod/pol/2011-2015/2013/Mindscape.2013.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/09/88/630988/7671606.3.jpg",(2014)Annie
@@ -1680,3 +1631,740 @@ http://207.110.52.49/vod/pol/2011-2015/2012/Life.Of.Pi.2012.mp4/index.m3u8
 http://207.110.52.49/vod/pol/2006-2010/2009/After.Life.2009.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/06/72/30672/7571677.3.jpg",(1996)Zyleta
 http://207.110.52.49/vod/pol/1996-2000/1996/Barb.Wire.1996.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/24/2358.jpg" ,(2008)Opowiesci z Narnii: Ksiaze Kaspian
+http://207.110.52.57/vod/pol/2006-2010/2008/The.Chronicles.Of.Narnia.Prince.Caspian.2008.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3688.jpg" ,(2015)Osada Godnosc
+http://207.110.52.57/vod/pol/2011-2015/2015/Colonia.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2796.jpg" ,(2001)Ostatni bastion
+http://207.110.52.57/vod/pol/2001-2005/2001/The.Last.Castle.2001.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2727.jpg" ,(2006)Ostatni krol Szkocji
+http://207.110.52.57/vod/pol/2006-2010/2006/The.Last.King.Of.Scotland.2006.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3718.jpg" ,(2015)Ostatni rycerze
+http://207.110.52.57/vod/pol/2011-2015/2015/Last.Knights.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/29/2833.jpg" ,(2003)Ostatni samuraj
+http://207.110.52.57/vod/pol/2001-2005/2003/The.Last.Samurai.2003.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/39/3849.jpg" ,(2015)Ostatni smok 3: Klatwa czarnoksieznika
+http://207.110.52.57/vod/pol/2011-2015/2015/Dragonheart.3.The.Sorcerers.Curse.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3699.jpg" ,(2015)Ostatnia dziewczyna
+http://207.110.52.57/vod/pol/2011-2015/2015/Final.Girl.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/27/2700.jpg" ,(2008)Outlander
+http://207.110.52.57/vod/pol/2006-2010/2008/Outlander.2008.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2529.jpg" ,(2014)Pan Peabody i Sherman
+http://207.110.52.57/vod/pol/2011-2015/2014/Mr.Peabody.And.Sherman.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/24/2338.jpg" ,(2013)Paranoja
+http://207.110.52.57/vod/pol/2011-2015/2013/Paranoia.2013.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/29/2810.jpg" ,(1993)Park Jurajski
+http://207.110.52.57/vod/pol/1991-1995/1993/Jurassic.Park.1993.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/29/2822.jpg" ,(1997)Park Jurajski 2
+http://207.110.52.57/vod/pol/1996-2000/1997/Jurassic.Park.2.1997.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2790.jpg" ,(2001)Park Jurajski 3
+http://207.110.52.57/vod/pol/2001-2005/2001/Jurassic.Park.3.2001.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/29/2828.jpg" ,(2006)Patrol
+http://207.110.52.57/vod/pol/2006-2010/2006/The.Guardian.2006.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3717.jpg" ,(2015)Pewnego lata
+http://207.110.52.57/vod/pol/2011-2015/2015/La.Belle.Saison.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/39/3869.jpg" ,(2014)Piesn slonia
+http://207.110.52.57/vod/pol/2011-2015/2014/Elephant.Song.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3698.jpg" ,(2015)Piecdziesiat twarzy Greya
+http://207.110.52.57/vod/pol/2011-2015/2015/Fifty.Shades.Of.Grey.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/29/2812.jpg" ,(2014)Piekna i bestia
+http://207.110.52.57/vod/pol/2011-2015/2014/La.Belle.Et.La.Bete.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2545.jpg" ,(2013)Pilkarzyki Rozrabiaja
+http://207.110.52.57/vod/pol/2011-2015/2013/Metegol.2013.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3629.jpg" ,(2008)Piorun
+http://207.110.52.57/vod/pol/2006-2010/2008/Bolt.2008.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2550.jpg" ,(2013)Piorun i magiczny dom
+http://207.110.52.57/vod/pol/2011-2015/2013/The.House.Of.Magic.2013.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/29/2820.jpg" ,(2003)Piotrus Pan
+http://207.110.52.57/vod/pol/2001-2005/2003/Peter.Pan.2003.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/40/3902.jpg" ,(2006)Piraci i kudlaci
+http://207.110.52.57/vod/pol/2006-2010/2006/Tom.And.Jerry.Shiver.Me.Whiskers.2006.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3732.jpg" ,(2015)Pitch Perfect 2
+http://207.110.52.57/vod/pol/2011-2015/2015/Pitch.Perfect.2.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2733.jpg" ,(2005)Plan lotu
+http://207.110.52.57/vod/pol/2001-2005/2005/Flightplan.2005.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2793.jpg" ,(2001)Planeta Malp
+http://207.110.52.57/vod/pol/2001-2005/2001/Planet.Of.The.Apes.2001.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3658.jpg" ,(2006)Po rozum do mrowek
+http://207.110.52.57/vod/pol/2006-2010/2006/The.Ant.Bully.2006.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2764.jpg" ,(2004)Pojutrze
+http://207.110.52.57/vod/pol/2001-2005/2004/The.Day.After.Tomorrow.2004.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2769.jpg" ,(2003)Pokonaj najszybszego
+http://207.110.52.57/vod/pol/2001-2005/2003/Biker.Boyz.2003.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3773.jpg" ,(2015)Polowanie na druzbow
+http://207.110.52.57/vod/pol/2011-2015/2015/The.Wedding.Ringer.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/27/2686.jpg" ,(2014)Polowanie na prezydenta
+http://207.110.52.57/vod/pol/2011-2015/2014/Big.Game.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/9/886.jpg" ,(1993)Polski Crash
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3733.jpg" ,(2015)Poltergeist
+http://207.110.52.57/vod/pol/2011-2015/2015/Poltergeist.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3645.jpg" ,(2001)Potwory i spolka
+http://207.110.52.57/vod/pol/2001-2005/2001/Monsters.Inc.2001.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2581.jpg" ,(2009)Potwory kontra Obcy
+http://207.110.52.57/vod/pol/2006-2010/2009/Monsters.Vs.Aliens.2009.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3687.jpg" ,(2015)Potwor z Cleveland
+http://207.110.52.57/vod/pol/2011-2015/2015/Cleveland.Abduction.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3673.jpg" ,(2015)Powietrze
+http://207.110.52.57/vod/pol/2011-2015/2015/Air.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2800.jpg" ,(2000)Poza swiatem
+http://207.110.52.57/vod/pol/1996-2000/2000/Cast.Away.2000.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/29/2805.jpg" ,(2000)Poznaj Mojego Tate
+http://207.110.52.57/vod/pol/1996-2000/2000/Meet.The.Parents.2000.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2729.jpg" ,(2006)Prestiz
+http://207.110.52.57/vod/pol/2006-2010/2006/The.Prestige.2006.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3760.jpg" ,(2015)Projektantka
+http://207.110.52.57/vod/pol/2011-2015/2015/The.Dressmaker.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/39/3852.jpg" ,(2014)Przeprowadzka
+http://207.110.52.57/vod/pol/2011-2015/2014/5.Flights.Up.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3731.jpg" ,(2015)Przewodnik po zyciu
+http://207.110.52.57/vod/pol/2011-2015/2015/People.Places.Things.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2572.jpg" ,(2011)Przygody Tintina
+http://207.110.52.57/vod/pol/2011-2015/2011/The.Adventures.Of.Tintin.2011.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3752.jpg" ,(2015)Przywolane wspomnienia
+http://207.110.52.57/vod/pol/2011-2015/2015/The.Adderall.Diaries.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/27/2680.jpg" ,(2012)Pustynia
+http://207.110.52.57/vod/pol/2011-2015/2012/The.Outback.2012.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3689.jpg" ,(2015)Radiowoz
+http://207.110.52.57/vod/pol/2011-2015/2015/Cop.Car.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/29/2816.jpg" ,(2011)Raid - Serbuan maut
+http://207.110.52.57/vod/pol/2011-2015/2011/The.Raid.2011.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2568.jpg" ,(2011)Rango
+http://207.110.52.57/vod/pol/2011-2015/2011/Rango.2011.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3649.jpg" ,(2007)Ratatuj
+http://207.110.52.57/vod/pol/2006-2010/2007/Ratatouille.2007.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3646.jpg" ,(2008)Renifer Niko ratuje swieta
+http://207.110.52.57/vod/pol/2006-2010/2008/Niko.Lentajan.Poika.2008.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/29/2806.jpg" ,(2000)Requiem dla snu
+http://207.110.52.57/vod/pol/1996-2000/2000/Requiem.For.A.Dream.2000.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/27/2696.jpg" ,(2010)Resident Evil: Afterlife
+http://207.110.52.57/vod/pol/2006-2010/2010/Resident.Evil.Afterlife.2010.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3650.jpg" ,(2008)Resident Evil: Degeneracja
+http://207.110.52.57/vod/pol/2006-2010/2008/Resident.Evil.Degeneration.2008.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2532.jpg" ,(2014)Rio 2
+http://207.110.52.57/vod/pol/2011-2015/2014/Rio.2.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/39/3859.jpg" ,(2014)Rok przemocy
+http://207.110.52.57/vod/pol/2011-2015/2014/A.Most.Violent.Year.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2570.jpg" ,(2011)Roman barbarzynca
+http://207.110.52.57/vod/pol/2011-2015/2011/Ronal.Barbaren.2011.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/39/3854.jpg" ,(2014)Romans na godziny
+http://207.110.52.57/vod/pol/2011-2015/2014/5.To.7.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2798.jpg" ,(2001)Rozgrywka
+http://207.110.52.57/vod/pol/2001-2005/2001/The.Score.2001.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3651.jpg" ,(2004)Rybki z ferajny
+http://207.110.52.57/vod/pol/2001-2005/2004/Shark.Tale.2004.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3691.jpg" ,(2015)Ryzykowny uklad
+http://207.110.52.57/vod/pol/2011-2015/2015/Criminal.Activities.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/24/2367.jpg" ,(2008)Saga Zmierzch
+http://207.110.52.57/vod/pol/2006-2010/2008/Twilight.2008.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2547.jpg" ,(2013)Samoloty
+http://207.110.52.57/vod/pol/2011-2015/2013/Planes.2013.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3736.jpg" ,(2015)San Andreas
+http://207.110.52.57/vod/pol/2011-2015/2015/San.Andreas.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/27/2679.jpg" ,(2014)Scooby Doo i Frankenstrachy
+http://207.110.52.57/vod/pol/2011-2015/2014/Scooby.Doo.Frankencreepy.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2576.jpg" ,(2010)Scooby-Doo Abracadabra-Doo
+http://207.110.52.57/vod/pol/2006-2010/2010/Scooby.Doo.Abracadabra.Doo.2010.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/39/3895.jpg" ,(2004)Scooby-Doo i Potwor z Loch Ness
+http://207.110.52.57/vod/pol/2001-2005/2004/Scooby.Doo.And.The.Loch.Ness.Monster.2004.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3634.jpg" ,(2007)Scooby-Doo i Sniezny Stwor
+http://207.110.52.57/vod/pol/2006-2010/2007/Chill.Out.Scooby.Doo.2007.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/27/2682.jpg" ,(2011)Scooby-Doo: Epoka Pantozaura
+http://207.110.52.57/vod/pol/2011-2015/2011/Scooby.Doo.Legend.Of.The.Phantosaur.2011.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2554.jpg" ,(2012)Scooby-Doo: Wielka Draka Wilkolaka
+http://207.110.52.57/vod/pol/2011-2015/2012/Big.Top.Scooby.Doo.2012.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2767.jpg" ,(2003)Sekcja 8
+http://207.110.52.57/vod/pol/2001-2005/2003/Basic.2003.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2534.jpg" ,(2014)Sekrety morza
+http://207.110.52.57/vod/pol/2011-2015/2014/Song.Of.The.Sea.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3647.jpg" ,(2006)Sezon na misia
+http://207.110.52.57/vod/pol/2006-2010/2006/Open.Season.2006.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3648.jpg" ,(2015)Sezon na misia 4: Strach sie bac
+http://207.110.52.57/vod/pol/2011-2015/2015/Open.Season.Scared.Silly.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3652.jpg" ,(2001)Shrek
+http://207.110.52.57/vod/pol/2001-2005/2001/Shrek.2001.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3653.jpg" ,(2004)Shrek 2
+http://207.110.52.57/vod/pol/2001-2005/2004/Shrek.2.2004.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3654.jpg" ,(2010)Shrek 4
+http://207.110.52.57/vod/pol/2006-2010/2010/Shrek.Forever.After.2010.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3655.jpg" ,(2007)Shrek Trzeci
+http://207.110.52.57/vod/pol/2006-2010/2007/Shrek.The.Third.2007.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3671.jpg" ,(2015)Siedem Dni w Piekle
+http://207.110.52.57/vod/pol/2011-2015/2015/7.Days.In.Hell.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2527.jpg" ,(2014)Siedmiu krasnoludkow ratuje Spiaca Krolewne
+http://207.110.52.57/vod/pol/2011-2015/2014/Der.7bte.Zwerg.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2704.jpg" ,(2008)Sie Zdarzylo W Las Vegas
+http://207.110.52.57/vod/pol/2006-2010/2008/What.Happens.In.Vegas.2008.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3656.jpg" ,(2003)Sindbad: Legenda siedmiu morz
+http://207.110.52.57/vod/pol/2001-2005/2003/Sinbad.Legend.Of.The.Seven.Seas.2003.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3738.jpg" ,(2015)Sinister 2
+http://207.110.52.57/vod/pol/2011-2015/2015/Sinister.2.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3768.jpg" ,(2015)Skandalistka Lady W
+http://207.110.52.57/vod/pol/2011-2015/2015/The.Scandalous.Lady.W.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/24/2353.jpg" ,(2008)Skazaniec
+http://207.110.52.57/vod/pol/2006-2010/2008/Felon.2008.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2795.jpg" ,(2001)Slodki listopad
+http://207.110.52.57/vod/pol/2001-2005/2001/Sweet.November.2001.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2778.jpg" ,(2002)Smierc Nadejdzie Jutro
+http://207.110.52.57/vod/pol/2001-2005/2002/Die.Another.Day.2002.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3741.jpg" ,(2015)Spectre
+http://207.110.52.57/vod/pol/2011-2015/2015/Spectre.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2761.jpg" ,(2004)Spider-Man 2
+http://207.110.52.57/vod/pol/2001-2005/2004/Spider.Man.2.2004.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2709.jpg" ,(2007)Spider-Man 3
+http://207.110.52.57/vod/pol/2006-2010/2007/Spider.Man.3.2007.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3665.jpg" ,(2004)SpongeBob Kanciastoporty
+http://207.110.52.57/vod/pol/2001-2005/2004/The.Sponge.Bob.Square.Pants.Movie.2004.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3664.jpg" ,(2015)Spongebob: na suchym ladzie
+http://207.110.52.57/vod/pol/2011-2015/2015/The.Sponge.Bob.Movie.Sponge.Out.Of.Water.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3742.jpg" ,(2015)Spooks The Greater Good
+http://207.110.52.57/vod/pol/2011-2015/2015/Spooks.The.Greater.Good.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3744.jpg" ,(2015)Star Trek: Renegaci
+http://207.110.52.57/vod/pol/2011-2015/2015/Star.Trek.Renegades.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/34/3323.jpg" ,(2002)Statek milosci
+http://207.110.52.57/vod/pol/2001-2005/2002/Boat.Trip.2002.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2559.jpg" ,(2012)Straznicy Marzen
+http://207.110.52.57/vod/pol/2011-2015/2012/Rise.Of.The.Guardians.2012.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3746.jpg" ,(2015)Strings
+http://207.110.52.57/vod/pol/2011-2015/2015/Strings.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3747.jpg" ,(2015)Super Bob
+http://207.110.52.57/vod/pol/2011-2015/2015/Super.Bob.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/29/2807.jpg" ,(2000)Supernova
+http://207.110.52.57/vod/pol/1996-2000/2000/Supernova.2000.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/29/2813.jpg" ,(2013)Syberyjska edukacja
+http://207.110.52.57/vod/pol/2011-2015/2013/Educazione.Siberiana.2013.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2533.jpg" ,(2014)Syn Batmana
+http://207.110.52.57/vod/pol/2011-2015/2014/Son.Of.Batman.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3686.jpg" ,(2015)System
+http://207.110.52.57/vod/pol/2011-2015/2015/Child.44.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/39/3863.jpg" ,(2014)Szkolna zaraza
+http://207.110.52.57/vod/pol/2011-2015/2014/Cooties.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2717.jpg" ,(2006)Sztandar Chwaly
+http://207.110.52.57/vod/pol/2006-2010/2006/Flags.Of.Our.Fathers.2006.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/24/2341.jpg" ,(2011)Szybcy i wsciekli 5
+http://207.110.52.57/vod/pol/2011-2015/2011/Fast.Five.2011.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3702.jpg" ,(2015)Szybcy i wsciekli 7
+http://207.110.52.57/vod/pol/2011-2015/2015/Furious.Seven.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2561.jpg" ,(2012)Tangled Ever After
+http://207.110.52.57/vod/pol/2011-2015/2012/Tangled.Ever.After.2012.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2548.jpg" ,(2013)Tarzan Krol dzungli
+http://207.110.52.57/vod/pol/2011-2015/2013/Tarzan.2013.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3771.jpg" ,(2015)Tasmy Watykanu
+http://207.110.52.57/vod/pol/2011-2015/2015/The.Vatican.Tapes.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3693.jpg" ,(2015)Tata kontra tata
+http://207.110.52.57/vod/pol/2011-2015/2015/Daddys.Home.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3750.jpg" ,(2015)Terminator Genisys
+http://207.110.52.57/vod/pol/2011-2015/2015/Terminator.Genisys.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3758.jpg" ,(2015)The D Train
+http://207.110.52.57/vod/pol/2011-2015/2015/The.D.Train.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/24/2361.jpg" ,(2008)The Hurt Locker W pulapce wojny
+http://207.110.52.57/vod/pol/2006-2010/2008/The.Hurt.Locker.2008.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/27/2695.jpg" ,(2011)Thor
+http://207.110.52.57/vod/pol/2011-2015/2011/Thor.2011.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3762.jpg" ,(2015)Igrzyska smierci: Kosoglos. Czesc 2
+http://207.110.52.57/vod/pol/2011-2015/2015/The.Hunger.Games.Mockingjay.Part.2.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3707.jpg" ,(2015)Il Racconto Dei Racconti
+http://207.110.52.57/vod/pol/2011-2015/2015/Il.Racconto.Dei.Racconti.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3660.jpg" ,(2004)Iniemamocni
+http://207.110.52.57/vod/pol/2001-2005/2004/The.Incredibles.2004.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/27/2699.jpg" ,(2008)Iron Man
+http://207.110.52.57/vod/pol/2006-2010/2008/Iron.Man.2008.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2755.jpg" ,(2004)Ja Robot
+http://207.110.52.57/vod/pol/2001-2005/2004/I.Robot.2004.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2528.jpg" ,(2014)Jak wytresowac smoka 2
+http://207.110.52.57/vod/pol/2011-2015/2014/How.To.Train.Your.Dragon.2.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2738.jpg" ,(2005)Jarhead
+http://207.110.52.57/vod/pol/2001-2005/2005/Jarhead.2005.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/39/3878.jpg" ,(2014)Jauja
+http://207.110.52.57/vod/pol/2011-2015/2014/Jauja.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3711.jpg" ,(2015)Jem i Hologramy
+http://207.110.52.57/vod/pol/2011-2015/2015/Jem.And.The.Holograms.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3780.jpg" ,(2015)Joker
+http://207.110.52.57/vod/pol/2011-2015/2015/Wild.Card.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3712.jpg" ,(2015)Jupiter: Intronizacja
+http://207.110.52.57/vod/pol/2011-2015/2015/Jupiter.Ascending.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/39/3887.jpg" ,(1990)kacze opowiesci poszukiwacze zaginionej
+http://207.110.52.57/vod/pol/1986-1990/1990/Duck.Tales.The.Movie.Treasure.Of.The.Lost.Lamp.1990.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/24/2348.jpg" ,(2010)Kick-Ass
+http://207.110.52.57/vod/pol/2006-2010/2010/Kick.Ass.2010.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2740.jpg" ,(2005)King Kong
+http://207.110.52.57/vod/pol/2001-2005/2005/King.Kong.2005.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/39/3864.jpg" ,(2014)Klaun - Clown
+http://207.110.52.57/vod/pol/2011-2015/2014/Clown.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2580.jpg" ,(2009)Klopsiki i inne zjawiska pogodowe
+http://207.110.52.57/vod/pol/2006-2010/2009/Cloudy.With.A.Chance.Of.Meatballs.2009.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2723.jpg" ,(2006)Kod da Vinci
+http://207.110.52.57/vod/pol/2006-2010/2006/The.Da.Vinci.Code.2006.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/27/2692.jpg" ,(2012)Kolekcjoner
+http://207.110.52.57/vod/pol/2011-2015/2012/The.Collection.2012.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/29/2811.jpg" ,(2015)Kopciuszek
+http://207.110.52.57/vod/pol/2011-2015/2015/Cinderella.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/27/2694.jpg" ,(2011)Kosmita Paul
+http://207.110.52.57/vod/pol/2011-2015/2011/Paul.2011.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2567.jpg" ,(2011)Kot w butach
+http://207.110.52.57/vod/pol/2011-2015/2011/Puss.In.Boots.2011.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/29/2837.jpg" ,(2010)Kot W Paryzu
+http://207.110.52.57/vod/pol/2006-2010/2010/Une.Vie.De.Chat.2010.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3715.jpg" ,(2015)Krampus Duch Swiat
+http://207.110.52.57/vod/pol/2011-2015/2015/Krampus.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/29/2826.jpg" ,(2006)Krew Za Krew
+http://207.110.52.57/vod/pol/2006-2010/2006/Seraphim.Falls.2006.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3627.jpg" ,(2006)Krowy na wypasie
+http://207.110.52.57/vod/pol/2006-2010/2006/Barnyard.2006.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/39/3899.jpg" ,(1994)Krol Lew
+http://207.110.52.57/vod/pol/1991-1995/1994/The.Lion.King.1994.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/39/3900.jpg" ,(1998)Krol Lew 2 Czas Simby
+http://207.110.52.57/vod/pol/1996-2000/1998/The.Lion.King.2.Simbas.Pride.1998.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2763.jpg" ,(2004)Krucjata Bourne'a
+http://207.110.52.57/vod/pol/2001-2005/2004/The.Bourne.Supremacy.2004.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3734.jpg" ,(2015)Krwawy biznes
+http://207.110.52.57/vod/pol/2011-2015/2015/Pound.Of.Flesh.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/39/3896.jpg" ,(1967)Ksiega dzungli
+http://207.110.52.57/vod/pol/1966-1970/1967/The.Jungle.Book.1967.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2535.jpg" ,(2014)Ksiega zycia
+http://207.110.52.57/vod/pol/2011-2015/2014/The.Book.Of.Life.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2583.jpg" ,(2009)Ksiezniczka i Zaba
+http://207.110.52.57/vod/pol/2006-2010/2009/The.Princess.And.The.Frog.2009.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3714.jpg" ,(2015)Kto tam?
+http://207.110.52.57/vod/pol/2011-2015/2015/Knock.Knock.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2760.jpg" ,(2004)Laleczka Chucky: Nastepne pokolenie
+http://207.110.52.57/vod/pol/2001-2005/2004/Seed.Of.Chucky.2004.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2536.jpg" ,(2014)Lego Przygoda
+http://207.110.52.57/vod/pol/2011-2015/2014/The.Lego.Movie.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3719.jpg" ,(2015)Little Boy
+http://207.110.52.57/vod/pol/2011-2015/2015/Little.Boy.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3643.jpg" ,(2015)Looney Tunes: Kto dogoni Krolika?
+http://207.110.52.57/vod/pol/2011-2015/2015/Looney.Tunes.Rabbit.Run.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34" ,(2012)Lorax
+http://207.110.52.57/vod/pol/2011-2015/2012/Dr.Seuss.The.Lorax.2012.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2731.jpg" ,(2006)Lot 93
+http://207.110.52.57/vod/pol/2006-2010/2006/United.93.2006.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/29/2832.jpg" ,(2004)Lot Feniksa
+http://207.110.52.57/vod/pol/2001-2005/2004/Flight.Of.The.Phoenix.2004.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/39/3885.jpg" ,(2008)Lowcy smokow
+http://207.110.52.57/vod/pol/2006-2010/2008/Chasseurs.De.Dragons.2008.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2772.jpg" ,(2003)Lzy slonca
+http://207.110.52.57/vod/pol/2001-2005/2003/Tears.Of.The.Sun.2003.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3722.jpg" ,(2015)Mad Max: Na drodze gniewu
+http://207.110.52.57/vod/pol/2011-2015/2015/Mad.Max.Fury.Road.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2728.jpg" ,(2006)Malowany Welon
+http://207.110.52.57/vod/pol/2006-2010/2006/The.Painted.Veil.2006.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3720.jpg" ,(2015)Mama.
+http://207.110.52.57/vod/pol/2011-2015/2015/Ma.Ma.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/29/2824.jpg" ,(2006)Martwa cisza
+http://207.110.52.57/vod/pol/2006-2010/2006/Dead.Silence.2006.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/27/2688.jpg" ,(2014)Martwy Snieg 2
+http://207.110.52.57/vod/pol/2011-2015/2014/Dead.Snow.2.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2566.jpg" ,(2011)Matki w mackach Marsa
+http://207.110.52.57/vod/pol/2011-2015/2011/Mars.Needs.Moms.2011.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3724.jpg" ,(2015)Max
+http://207.110.52.57/vod/pol/2011-2015/2015/Max.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/27/2687.jpg" ,(2014)Miasteczko Cut Bank
+http://207.110.52.57/vod/pol/2011-2015/2014/Cut.Bank.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/39/3890.jpg" ,(1999)Mickey Bajkowe Swieta
+http://207.110.52.57/vod/pol/1996-2000/1999/Mickeys.Once.Upon.A.Christmas.1999.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3749.jpg" ,(2015)Miecz Zemsty
+http://207.110.52.57/vod/pol/2011-2015/2015/Sword.Of.Vengeance.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3644.jpg" ,(2015)Minionki
+http://207.110.52.57/vod/pol/2011-2015/2015/Minions.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2542.jpg" ,(2013)Minionki rozrabiaja
+http://207.110.52.57/vod/pol/2011-2015/2013/Despicable.Me.2.2013.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3782.jpg" ,(2015)Mlodosc
+http://207.110.52.57/vod/pol/2011-2015/2015/Youth.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3781.jpg" ,(2015)Moc pierscionka
+http://207.110.52.57/vod/pol/2011-2015/2015/With.This.Ring.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2743.jpg" ,(2005)Monachium
+http://207.110.52.57/vod/pol/2001-2005/2005/Munich.2005.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3683.jpg" ,(2015)Most szpiegow
+http://207.110.52.57/vod/pol/2011-2015/2015/Bridge.Of.Spies.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3631.jpg" ,(2006)Mój brat niedzwiedz 2
+http://207.110.52.57/vod/pol/2006-2010/2006/Brother.Bear.2.2006.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2789.jpg" ,(2001)Mroczna dzielnica
+http://207.110.52.57/vod/pol/2001-2005/2001/Exit.Wounds.2001.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/39/3851.jpg" ,(2015)Mroczna tajemnica
+http://207.110.52.57/vod/pol/2011-2015/2015/The.Intruders.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/39/3893.jpg" ,(2004)Mulan 2
+http://207.110.52.57/vod/pol/2001-2005/2004/Mulan.2.2004.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2530.jpg" ,(2014)Muppety: Poza Prawem
+http://207.110.52.57/vod/pol/2011-2015/2014/Muppets.Most.Wanted.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3657.jpg" ,(2007)Na Fali
+http://207.110.52.57/vod/pol/2006-2010/2007/Surfs.Up.2007.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3727.jpg" ,(2015)Na linii
+http://207.110.52.57/vod/pol/2011-2015/2015/Operator.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3764.jpg" ,(2015)Najdluzsza podroz
+http://207.110.52.57/vod/pol/2011-2015/2015/The.Longest.Ride.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/24/2357.jpg" ,(2008)Najpierw strzelaj, potem zwiedzaj
+http://207.110.52.57/vod/pol/2006-2010/2008/In.Bruges.2008.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/27/2693.jpg" ,(2011)Nasz Brat Idiota
+http://207.110.52.57/vod/pol/2011-2015/2011/Our.Idiot.Brother.2011.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/24/2346.jpg" ,(2010)Naznaczony
+http://207.110.52.57/vod/pol/2006-2010/2010/Insidious.2010.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/9/835.jpg" ,(2007)Nie panikuj!
+http://207.110.52.49/vod/pol/2006-2010/2007/Nie.Panikuj.2007.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/29/2815.jpg" ,(2012)Nieobliczalni
+http://207.110.52.57/vod/pol/2011-2015/2012/De.Lautre.Cote.Du.Periph.2012.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/27/2697.jpg" ,(2010)Niepokonani.
+http://207.110.52.57/vod/pol/2006-2010/2010/The.Way.2010.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/24/2362.jpg" ,(2008)Niesamowity Hulk
+http://207.110.52.57/vod/pol/2006-2010/2008/The.Incredible.Hulk.2008.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3776.jpg" ,(2015)Nieuchwytni
+http://207.110.52.57/vod/pol/2011-2015/2015/Tracers.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2746.jpg" ,(2005)Niewidzialny
+http://207.110.52.57/vod/pol/2001-2005/2005/Stealth.2005.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/39/3850.jpg" ,(2015)Ocalona
+http://207.110.52.57/vod/pol/2011-2015/2015/Survivor.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2792.jpg" ,(2001)Ocean's Eleven: Ryzykowna gra
+http://207.110.52.57/vod/pol/2001-2005/2001/Oceans.Eleven.2001.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2758.jpg" ,(2004)Ocean's Twelve: Dogrywka
+http://207.110.52.57/vod/pol/2001-2005/2004/Oceans.Twelve.2004.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/27/2685.jpg" ,(2009)Odlot
+http://207.110.52.57/vod/pol/2006-2010/2009/Up.2009.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3632.jpg" ,(2015)Odlotowa przygoda
+http://207.110.52.57/vod/pol/2011-2015/2015/Capture.The.Flag.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/39/3856.jpg" ,(2014)Odrobina chaosu
+http://207.110.52.57/vod/pol/2011-2015/2014/A.Little.Chaos.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3729.jpg" ,(2015)Oficer Blart 2
+http://207.110.52.57/vod/pol/2011-2015/2015/Paul.Blart.Mall.Cop.2.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3668.jpg" ,(2015)Tom i Jerry: Super Agenci
+http://207.110.52.57/vod/pol/2011-2015/2015/Tom.And.Jerry.Spy.Quest.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2585.jpg" ,(1995)Toy Story
+http://207.110.52.57/vod/pol/1991-1995/1995/Toy.Story.1995.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2552.jpg" ,(2013)Toy Story of Terror
+http://207.110.52.57/vod/pol/2011-2015/2013/Toy.Story.Of.Terror.2013.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2784.jpg" ,(2002)Tozsamosc Bourne'a
+http://207.110.52.57/vod/pol/2001-2005/2002/The.Bourne.Identity.2002.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/24/2343.jpg" ,(2011)Transformers 3 Ciemnosc Ksiezyca
+http://207.110.52.57/vod/pol/2011-2015/2011/Transformers.Dark.Of.The.Moon.2011.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3770.jpg" ,(2015)Transporter: Nowa moc
+http://207.110.52.57/vod/pol/2011-2015/2015/The.Transporter.Refueled.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/24/2340.jpg" ,(2012)Tranzyt
+http://207.110.52.57/vod/pol/2011-2015/2012/Transit.2012.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2766.jpg" ,(2004)Troja
+http://207.110.52.57/vod/pol/2001-2005/2004/Troy.2004.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2553.jpg" ,(2013)Turbo
+http://207.110.52.57/vod/pol/2011-2015/2013/Turbo.2013.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3677.jpg" ,(2015)Udreka
+http://207.110.52.57/vod/pol/2011-2015/2015/Anguish.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3684.jpg" ,(2015)Ujarzmione konie
+http://207.110.52.57/vod/pol/2011-2015/2015/Broken.Horses.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3740.jpg" ,(2015)Ukojenie
+http://207.110.52.57/vod/pol/2011-2015/2015/Solace.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2710.jpg" ,(2007)Ultimatum Bourne'a
+http://207.110.52.57/vod/pol/2006-2010/2007/The.Bourne.Ultimatum.2007.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2773.jpg" ,(2003)Underworld
+http://207.110.52.57/vod/pol/2001-2005/2003/Underworld.2003.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2749.jpg" ,(2005)Underworld 2: Ewolucja
+http://207.110.52.57/vod/pol/2001-2005/2005/Underworld.Evolution.2005.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2546.jpg" ,(2013)Uniwersytet Potworny
+http://207.110.52.57/vod/pol/2011-2015/2013/Monsters.University.2013.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/24/2339.jpg" ,(2012)Uwodziciel
+http://207.110.52.57/vod/pol/2011-2015/2012/Bel.Ami.2012.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2730.jpg" ,(2006)W Pogoni Za Szczesciem
+http://207.110.52.57/vod/pol/2006-2010/2006/The.Pursuit.Of.Happyness.2006.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/39/3857.jpg" ,(2014)Walka o przetrwanie
+http://207.110.52.57/vod/pol/2011-2015/2014/Age.Of.Tomorrow.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/24/2368.jpg" ,(2008)Walkiria
+http://207.110.52.57/vod/pol/2006-2010/2008/Valkyrie.2008.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2703.jpg" ,(2008)Wanted: Scigani
+http://207.110.52.57/vod/pol/2006-2010/2008/Wanted.2008.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3779.jpg" ,(2015)We Are Your Friends
+http://207.110.52.57/vod/pol/2011-2015/2015/We.Are.Your.Friends.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3753.jpg" ,(2015)Wiek Adeline
+http://207.110.52.57/vod/pol/2011-2015/2015/The.Age.Of.Adaline.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/24/2350.jpg" ,(2010)Wilkolak
+http://207.110.52.57/vod/pol/2006-2010/2010/The.Wolfman.2010.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3674.jpg" ,(2015)Witamy na Hawajach
+http://207.110.52.57/vod/pol/2011-2015/2015/Aloha.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/34/3322.jpg" ,(2003)Wloska robota
+http://207.110.52.57/vod/pol/2001-2005/2003/The.Italian.Job.2003.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3637.jpg" ,(2006)Wpuszczony w kanal
+http://207.110.52.57/vod/pol/2006-2010/2006/Flushed.Away.2006.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3730.jpg" ,(2015)Wrota zaswiatow
+http://207.110.52.57/vod/pol/2011-2015/2015/Pay.The.Ghost.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3748.jpg" ,(2015)Wsciekle szybcy
+http://207.110.52.57/vod/pol/2011-2015/2015/Superfast.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3777.jpg" ,(2015)Wujek John
+http://207.110.52.57/vod/pol/2011-2015/2015/Uncle.John.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3701.jpg" ,(2015)Wybryk natury
+http://207.110.52.57/vod/pol/2011-2015/2015/Freaks.Of.Nature.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/29/2831.jpg" ,(2005)Wyspa
+http://207.110.52.57/vod/pol/2001-2005/2005/The.Island.2005.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/24/2342.jpg" ,(2011)Wyscig z czasem
+http://207.110.52.57/vod/pol/2011-2015/2011/In.Time.2011.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/27/2691.jpg" ,(2012)Wywiad z Zabojca
+http://207.110.52.57/vod/pol/2011-2015/2012/Interview.With.A.Hitman.2012.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2725.jpg" ,(2006)Wzgorza maja oczy
+http://207.110.52.57/vod/pol/2006-2010/2006/The.Hills.Have.Eyes.2006.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2711.jpg" ,(2007)Wzgorza maja oczy 2
+http://207.110.52.57/vod/pol/2006-2010/2007/The.Hills.Have.Eyes.2.2007.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/34/3324.jpg" ,(2002)xXx
+http://207.110.52.57/vod/pol/2001-2005/2002/Xxx.2002.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/24/2370.jpg" ,(2008)Yip Man
+http://207.110.52.57/vod/pol/2006-2010/2008/Ip.Man.2008.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2757.jpg" ,(2004)Za wszelka cene
+http://207.110.52.57/vod/pol/2001-2005/2004/Million.Dollar.Baby.2004.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/39/3847.jpg" ,(2015)Zabojcza
+http://207.110.52.57/vod/pol/2011-2015/2015/Barely.Lethal.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2719.jpg" ,(2006)Zabojczy numer
+http://207.110.52.57/vod/pol/2006-2010/2006/Lucky.Number.Slevin.2006.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/24/2371.jpg" ,(2008)Zack i Miri Kreca Porno
+http://207.110.52.57/vod/pol/2006-2010/2008/Zack.And.Miri.Make.A.Porno.2008.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2702.jpg" ,(2008)Zakazane krolestwo
+http://207.110.52.57/vod/pol/2006-2010/2008/The.Forbidden.Kingdom.2008.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/37/3681.jpg" ,(2015)Zamaskowany
+http://207.110.52.57/vod/pol/2011-2015/2015/Beyond.The.Mask.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2577.jpg" ,(2010)Zaplatani
+http://207.110.52.57/vod/pol/2006-2010/2010/Tangled.2010.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/39/3858.jpg" ,(2014)Zapnijcie pasy
+http://207.110.52.57/vod/pol/2011-2015/2014/Fasten.Your.Seatbelts.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2794.jpg" ,(2001)Zawod: Szpieg
+http://207.110.52.57/vod/pol/2001-2005/2001/Spy.Game.2001.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3709.jpg" ,(2015)Zbuntowana
+http://207.110.52.57/vod/pol/2011-2015/2015/Insurgent.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2747.jpg" ,(2005)Zejscie
+http://207.110.52.57/vod/pol/2001-2005/2005/The.Descent.2005.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/39/3881.jpg" ,(2014)Zimowy sen
+http://207.110.52.57/vod/pol/2011-2015/2014/Winter.Sleep.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/38/3767.jpg" ,(2015)Zjawa
+http://207.110.52.57/vod/pol/2011-2015/2015/The.Revenant.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2762.jpg" ,(2004)Zlodziej zycia
+http://207.110.52.57/vod/pol/2001-2005/2004/Taking.Lives.2004.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2777.jpg" ,(2002)Zmiana pasa
+http://207.110.52.57/vod/pol/2001-2005/2002/Changing.Lanes.2002.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2739.jpg" ,(2005)Zostanmy Przyjaciolmi
+http://207.110.52.57/vod/pol/2001-2005/2005/Just.Friends.2005.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/26/2560.jpg" ,(2012)Zolwik Sammy 2
+http://207.110.52.57/vod/pol/2011-2015/2012/Sammys.Avonturen.2.2012.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/29/2814.jpg" ,(2013)Zycie Adeli
+http://207.110.52.57/vod/pol/2011-2015/2013/La.Vie.Dadele.2013.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/17/95/231795/7187778.2.jpg",(2008)8 Czesci Prawdy
+http://207.110.52.57/vod/pol/2006-2010/2008/Vantage.Point.2008.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.ceneostatic.pl/data/products/77211885/i-90-minutes-in-heaven-90-minut-w-niebie-dvd.jpg",(2015)90 minut w niebie
+http://207.110.52.57/vod/pol/2011-2015/2015/90.Minutes.In.Heaven.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.cinematerial.com/p/500x/kqhqdbyu/a-good-man-british-dvd-cover.jpg",(2014)A Good Man
+http://207.110.52.57/vod/pol/2011-2015/2014/A.Good.Man.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/54/35/715435/7690152.3.jpg",(2015)Admiral Michiel de Ruyter
+http://207.110.52.57/vod/pol/2011-2015/2015/Michiel.De.Ruyter.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/47/72/264772/7229371.2.jpg",(2006)Adrenalina
+http://207.110.52.57/vod/pol/2006-2010/2006/Crank.2006.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/36/37/463637/7249202.2.jpg",(2009)Adrenalina 2 Pod napieciem
+http://207.110.52.57/vod/pol/2006-2010/2009/Crank.High.Voltage.2009.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/29/10/32910/7190218.2.jpg",(2002)Ali G
+http://207.110.52.57/vod/pol/2001-2005/2002/Ali.G.Indahouse.2002.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/75/09/217509/7830942.2.jpg",(2005)Aloha Scooby Doo
+http://207.110.52.57/vod/pol/2001-2005/2005/Aloha.Scooby.Doo.2005.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/63/58/686358/7716971.2.jpg",(2015)Alvin i wiewiórki Wielka wyprawa
+http://207.110.52.57/vod/pol/2011-2015/2015/Alvin.And.The.Chipmunks.The.Road.Chip.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/25/21/702521/7731820.2.jpg",(2015)American Ultra
+http://207.110.52.57/vod/pol/2011-2015/2015/American.Ultra.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/50/48/695048/7695546.2.jpg",(2014)Anarchia
+http://207.110.52.57/vod/pol/2011-2015/2014/Cymbeline.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/81/51/698151/7589919.2.jpg",(2014)Android Cop
+http://207.110.52.57/vod/pol/2011-2015/2014/Android.Cop.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/89/78/698978/7702653.2.jpg",(2014)Anglik który mnie kochal
+http://207.110.52.57/vod/pol/2011-2015/2014/How.To.Make.Love.Like.An.Englishman.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/02/45/140245/7534155.2.jpg",(2005)Anthony Zimmer
+http://207.110.52.57/vod/pol/2001-2005/2005/Anthony.Zimmer.2005.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/92/89/249289/7518090.2.jpg",(2006)Apocalypto
+http://207.110.52.57/vod/pol/2006-2010/2007/Apocalypto.2007.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/22/82/262282/7306915.2.jpg",(2006)As W Rekawie
+http://207.110.52.57/vod/pol/2006-2010/2006/Smokin.Aces.2006.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/99/28/719928/7803923.2.jpg",(2015)Ashby
+http://207.110.52.57/vod/pol/2011-2015/2015/Ashby.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/43/42/704342/7661843.2.jpg",(2015)Atak Tytanów
+http://207.110.52.57/vod/pol/2011-2015/2015/Shingeki.No.Kyojin.Attack.On.Titan.2015.mp4/index.m3u8
+#EXTINF:0 tvg-logo="http://207.110.52.34/screenshots/39/3891.jpg",(1976)12 prac Asteriksa
+http://207.110.52.57/vod/pol/1976-1980/1976/Les.Douze.Travaux.D.Asterix.1976.mp4/index.m3u8
+#EXTINF:0 tvg-logo="http://207.110.52.34/screenshots/29/2819.jpg",(2004)13 Dzielnica
+http://207.110.52.57/vod/pol/2001-2005/2004/Banlieue.13.2004.mp4/index.m3u8
+#EXTINF:0 tvg-logo="http://207.110.52.34/screenshots/28/2712.jpg",(2006)16 przecznic
+http://207.110.52.57/vod/pol/2006-2010/2006/16.Blocks.2006.mp4/index.m3u8
+#EXTINF:0 tvg-logo="http://207.110.52.34/screenshots/39/3853.jpg",(2014)2047 rok smierci
+http://207.110.52.57/vod/pol/2011-2015/2014/2047.Sights.Of.Death.2014.mp4/index.m3u8
+#EXTINF:0 tvg-logo="http://207.110.52.34/screenshots/28/2774.jpg",(2002)28 dni pózniej
+http://207.110.52.57/vod/pol/2001-2005/2002/28.Days.Later.2002.mp4/index.m3u8
+#EXTINF:0 tvg-logo="http://207.110.52.34/screenshots/38/3751.jpg",(2015)33
+http://207.110.52.57/vod/pol/2011-2015/2015/The.33.2015.mp4/index.m3u8
+#EXTINF:0 tvg-logo="http://207.110.52.34/screenshots/28/2750.jpg",(2004)50 pierwszych randek
+http://207.110.52.57/vod/pol/2001-2005/2004/50.First.Dates.2004.mp4/index.m3u8
+#EXTINF:0 tvg-logo="http://207.110.52.34/screenshots/26/2563.jpg",(2011)Artur ratuje Gwiazdke.
+http://207.110.52.57/vod/pol/2011-2015/2011/Arthur.Christmas.2011.mp4/index.m3u8
+#EXTINF:0 tvg-logo="http://207.110.52.34/screenshots/27/2683.jpg",(2009)Astro Boy
+http://207.110.52.57/vod/pol/2006-2010/2009/Astro.Boy.2009.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2006)Auta
+http://207.110.52.57/vod/pol/2006-2010/2006/Cars.2006.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2015)Avengers: Czas Ultrona
+http://207.110.52.57/vod/pol/2011-2015/2015/Avengers.Age.Of.Ultron.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(1942)Bambi
+http://207.110.52.57/vod/pol/1941-1945/1942/Bambi.1942.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2006)Bambi 2
+http://207.110.52.57/vod/pol/2006-2010/2006/Bambi.2.2006.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2014)Barbie i tajemnicze drzwi
+http://207.110.52.57/vod/pol/2011-2015/2014/Barbie.And.The.Secret.Door.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2015)Barbie Super Ksiezniczki
+http://207.110.52.57/vod/pol/2011-2015/2015/Barbie.In.Princess.Power.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2015)Barbie: Rockowa ksiezniczka
+http://207.110.52.57/vod/pol/2011-2015/2015/Barbie.In.Rockn.Royals.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(1991)Beauty and the Beast
+http://207.110.52.57/vod/pol/1991-1995/1991/Beauty.And.The.Beast.1991.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2015)Bezwstydny Mortdecai
+http://207.110.52.57/vod/pol/2011-2015/2015/Mortdecai.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2015)Big Short
+http://207.110.52.57/vod/pol/2011-2015/2015/The.Big.Short.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2002)Blade: Wieczny lowca II
+http://207.110.52.57/vod/pol/2001-2005/2002/Blade.2.2002.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2001)Blow
+http://207.110.52.57/vod/pol/2001-2005/2001/Blow.2001.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2005)Blekitna glebia
+http://207.110.52.57/vod/pol/2001-2005/2005/Into.The.Blue.2005.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2014)Bogowie
+http://207.110.52.57/vod/pol/2011-2015/2014/Bogowie.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2006)Boska interwencja
+http://207.110.52.57/vod/pol/2006-2010/2006/Facing.The.Giants.2006.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2014)Bog nie umarl
+http://207.110.52.57/vod/pol/2011-2015/2014/Gods.Not.Dead.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2002)Bylismy zolnierzami
+http://207.110.52.57/vod/pol/2001-2005/2002/We.Were.Soldiers.2002.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2015)Chappie
+http://207.110.52.57/vod/pol/2011-2015/2015/Chappie.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2005)Chicken Little
+http://207.110.52.57/vod/pol/2001-2005/2005/Chicken.Little.2005.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2015)Chlopiec
+http://207.110.52.57/vod/pol/2011-2015/2015/The.Boy.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2015)Cicha noc
+http://207.110.52.57/vod/pol/2011-2015/2015/The.Night.Before.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2005)Ciezkie czasy
+http://207.110.52.57/vod/pol/2001-2005/2005/Harsh.Times.2005.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2015)Clowiek o zelaznych piesciach 2
+http://207.110.52.57/vod/pol/2011-2015/2015/The.Man.With.The.Iron.Fists.2.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2015)Creed: Narodziny legendy
+http://207.110.52.57/vod/pol/2011-2015/2015/Creed.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2014)Creep
+http://207.110.52.57/vod/pol/2011-2015/2014/Creep.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2015)Cyberszantaz
+http://207.110.52.57/vod/pol/2011-2015/2015/Cyberbully.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2015)Czas wymierania
+http://207.110.52.57/vod/pol/2011-2015/2015/Extinction.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2001)Czekajac Na Wyrok
+http://207.110.52.57/vod/pol/2001-2005/2001/Monsters.Ball.2001.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2011)Czerwony Kapturek 2 Pogromca zla
+http://207.110.52.57/vod/pol/2011-2015/2011/Hoodwinked.Too.Hood.Vs.Evil.2011.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2013)Czlowiek Tai Chi
+http://207.110.52.57/vod/pol/2011-2015/2013/Man.Of.Tai.Chi.2013.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2004)Czlowiek w ogniu
+http://207.110.52.57/vod/pol/2001-2005/2004/Man.On.Fire.2004.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2005)Czterej Bracia
+http://207.110.52.57/vod/pol/2001-2005/2005/Four.Brothers.2005.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2008)Cztery Gwiazdki
+http://207.110.52.57/vod/pol/2006-2010/2008/Four.Christmases.2008.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2014)Dark Was the Night
+http://207.110.52.57/vod/pol/2011-2015/2014/Dark.Was.The.Night.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2006)Deja Vu
+http://207.110.52.57/vod/pol/2006-2010/2006/Deja.Vu.2006.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2000)Dinozaur
+http://207.110.52.57/vod/pol/1996-2000/2000/Dinosaur.2000.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2015)Dobry dinozaur
+http://207.110.52.57/vod/pol/2011-2015/2015/The.Good.Dinosaur.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2015)Dobry zly i martwy
+http://207.110.52.57/vod/pol/2011-2015/2015/4.Got.10.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2015)Dom
+http://207.110.52.57/vod/pol/2011-2015/2015/Home.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2014)Druga szansa
+http://207.110.52.57/vod/pol/2011-2015/2014/En.Chance.Til.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2010)Duze dzieci
+http://207.110.52.57/vod/pol/2006-2010/2010/Grown.Ups.2010.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2001)Dzien proby
+http://207.110.52.57/vod/pol/2001-2005/2001/Training.Day.2001.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2015)Dziewczyna z portretu
+http://207.110.52.57/vod/pol/2011-2015/2015/The.Danish.Girl.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2002)Dzika Rodzinka
+http://207.110.52.57/vod/pol/2001-2005/2002/The.Wild.Thornberrys.Movie.2002.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2008)Dzwoneczek
+http://207.110.52.57/vod/pol/2006-2010/2008/Tinker.Bell.2008.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2014)Dzwoneczek i bestia z Nibylandii
+http://207.110.52.57/vod/pol/2011-2015/2014/Tinker.Bell.And.The.Legend.Of.The.Neverbeast.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2015)Echo smierci
+http://207.110.52.57/vod/pol/2011-2015/2015/Echo.Effect.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2015)Efekt Lazarza
+http://207.110.52.57/vod/pol/2011-2015/2015/The.Lazarus.Effect.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2005)Egzorcyzmy Emily Rose
+http://207.110.52.57/vod/pol/2001-2005/2005/The.Exorcism.Of.Emily.Rose.2005.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2015)Ekipa
+http://207.110.52.57/vod/pol/2011-2015/2015/Entourage.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2014)Eks mojego zycia
+http://207.110.52.57/vod/pol/2011-2015/2014/Lex.De.Ma.Vie.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2015)Eksperyment Stanford
+http://207.110.52.57/vod/pol/2011-2015/2015/The.Stanford.Prison.Experiment.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2004)Ekspres Polarny
+http://207.110.52.57/vod/pol/2001-2005/2004/The.Polar.Express.2004.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(1992)Enak
+http://207.110.52.49/vod/pol/1991-1995/1992/Enak.1992.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2013)Epic
+http://207.110.52.57/vod/pol/2011-2015/2013/Epic.2013.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2006)Epoka lodowcowa 2: Odwilz
+http://207.110.52.57/vod/pol/2006-2010/2006/Ice.Age.The.Meltdown.2006.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2002)Equilibrium
+http://207.110.52.57/vod/pol/2001-2005/2002/Equilibrium.2002.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2015)Ex Machina
+http://207.110.52.57/vod/pol/2011-2015/2015/Ex.Machina.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2007)Film o pszczolach
+http://207.110.52.57/vod/pol/2006-2010/2007/Bee.Movie.2007.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2015)Fistaszki - wersja kinowa
+http://207.110.52.57/vod/pol/2011-2015/2015/The.Peanuts.Movie.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2015)Focus
+http://207.110.52.57/vod/pol/2011-2015/2015/Focus.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2012)Frankenweenie
+http://207.110.52.57/vod/pol/2011-2015/2012/Frankenweenie.2012.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2013)Frozen
+http://207.110.52.57/vod/pol/2011-2015/2013/Frozen.2013.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2014)Fru! - Zolty ptaszek
+http://207.110.52.57/vod/pol/2011-2015/2014/Yellowbird.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2009)G-Force
+http://207.110.52.57/vod/pol/2006-2010/2009/G.Force.2009.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2014)Gang Wiewiora
+http://207.110.52.57/vod/pol/2011-2015/2014/The.Nut.Job.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2000)Gdzie serce twoje
+http://207.110.52.57/vod/pol/1996-2000/2000/Where.The.Heart.Is.2000.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2015)Gesia skorka
+http://207.110.52.57/vod/pol/2011-2015/2015/Goosebumps.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2000)Gladiator
+http://207.110.52.57/vod/pol/1996-2000/2000/Gladiator.2000.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2008)Glod
+http://207.110.52.57/vod/pol/2006-2010/2008/Hunger.2008.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2015)Goraczka lodu
+http://207.110.52.57/vod/pol/2011-2015/2015/Frozen.Fever.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2008)Granice Namietnosci
+http://207.110.52.57/vod/pol/2006-2010/2008/The.Edge.Of.Love.2008.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2000)Grinch: swiat nie bedzie
+http://207.110.52.57/vod/pol/1996-2000/2000/How.The.Grinch.Stole.Christmas.2000.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2015)Gunman: Odkupienie
+http://207.110.52.57/vod/pol/2011-2015/2015/The.Gunman.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2015)Haker
+http://207.110.52.57/vod/pol/2011-2015/2015/Blackhat.2015.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2005)Harry Potter i Czara Ognia
+http://207.110.52.57/vod/pol/2001-2005/2005/Harry.Potter.And.The.Goblet.Of.Fire.2005.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2001)Harry Potter i Kamien Filozoficzny
+http://207.110.52.57/vod/pol/2001-2005/2001/Harry.Potter.And.The.Sorcerers.Stone.2001.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2002)Harry Potter i Komnata Tajemnic
+http://207.110.52.57/vod/pol/2001-2005/2002/Harry.Potter.And.The.Chamber.Of.Secrets.2002.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2004)Harry Potter i wiezien Azkabanu
+http://207.110.52.57/vod/pol/2001-2005/2004/Harry.Potter.And.The.Prisoner.Of.Azkaban.2004.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2007)Harry Potter i Zakon Feniksa
+http://207.110.52.57/vod/pol/2006-2010/2007/Harry.Potter.And.The.Order.Of.The.Phoenix.2007.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2014)He Who Dares
+http://207.110.52.57/vod/pol/2011-2015/2014/He.Who.Dares.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2001)Helikopter w ogniu
+http://207.110.52.57/vod/pol/2001-2005/2001/Black.Hawk.Down.2001.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2004)Hellboy
+http://207.110.52.57/vod/pol/2001-2005/2004/Hellboy.2004.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2008)Hellboy: Zlota Armia
+http://207.110.52.57/vod/pol/2006-2010/2008/Hellboy.2.The.Golden.Army.2008.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2014)Honeymoon
+http://207.110.52.57/vod/pol/2011-2015/2014/Honeymoon.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2008)Horton Hears a Who
+http://207.110.52.57/vod/pol/2006-2010/2008/Horton.Hears.A.Who.2008.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2012)Hotel Transylwania
+http://207.110.52.57/vod/pol/2011-2015/2012/Hotel.Transylvania.2012.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2014)Huang Feihong Zhi Yingxiong You Meng
+http://207.110.52.57/vod/pol/2011-2015/2014/Huang.Feihong.Zhi.Yingxiong.You.Meng.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="xxxx",(2008)I wszystko lsni
+http://207.110.52.57/vod/pol/2006-2010/2008/Sunshine.Cleaning.2008.mp4/index.m3u8
