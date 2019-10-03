@@ -178,10 +178,6 @@ http://vodcdn-eu-01.planetapl.tv:80/vod/Love_at_First_Hiccup_2009_PL.hd.m4v/inde
 http://vodcdn-eu-01.planetapl.tv:80/vod/National_Treasure_2004_PL.hd.m4v/index.m3u8
 #EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/88/51/238851/7180705.3.jpg",Skarb narodów: Księga tajemnic (2007)
 http://vodcdn-eu-01.planetapl.tv:80/vod/National_Treasure_Book_of_Secrets_2007_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/92/80/489280/7371009.6.jpg",X-Men: Pierwsza klasa (2011)
-http://vodcdn-eu-01.planetapl.tv:80/vod/X_First_Class_2011_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/50/48/515048/7559330.3.jpg",Wolverine (2013)
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Wolverine_2013_PL.hd.m4v/index.m3u8
 #EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/01/92/750192/7796530.3.jpg",The Belko Experiment (2016)
 http://vodcdn-eu-01.planetapl.tv:80/vod/The_Belko_Experiment_2016_PL.hd.m4v/index.m3u8
 #EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/26/00/292600/7444781.3.jpg",Arena (2011)
@@ -326,717 +322,673 @@ http://vodcdn-eu-01.planetapl.tv:80/vod/Nena_2014_PL.hd.m4v/index.m3u8
 http://vodcdn-eu-01.planetapl.tv:80/vod/On_ne_choisit_pas_sa_famille_2011_PL.hd.m4v/index.m3u8
 #EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/79/36/567936/7634623.3.jpg",Słowo na M (2013)
 http://vodcdn-eu-01.planetapl.tv:80/vod/The_F_Word_2013_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Rycerze (nie) na niby
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/74/97/557497/7591104.3.jpg",Rycerze (nie) na niby (2013)
 http://vodcdn-eu-01.planetapl.tv:80/vod/Knights_of_Badassdom_2013_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Wyścig śmierci 3: Piekło na ziemi
-http://vodcdn-eu-01.planetapl.tv:80/vod/Death_Race_Inferno_2013_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",15 minut
-http://vodcdn-eu-01.planetapl.tv:80/vod/15_Minutes_2001_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",15:17 do Paryża
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_15_17_to_Paris_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Przypadek 39
-http://vodcdn-eu-01.planetapl.tv:80/vod/Case_39_2009_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",6 Balloons
-http://vodcdn-eu-01.planetapl.tv:80/vod/6_Balloons_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",6 kul
-http://vodcdn-eu-01.planetapl.tv:80/vod/6_Bullets_2012_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",52 wtorki
-http://vodcdn-eu-01.planetapl.tv:80/vod/52_Tuesdays_2013_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",24 tygodnie
-http://vodcdn-eu-01.planetapl.tv:80/vod/24_Wochen_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Happy Anniversary
-http://vodcdn-eu-01.planetapl.tv:80/vod/Happy_Anniversary_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Revolt
-http://vodcdn-eu-01.planetapl.tv:80/vod/Revolt_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Siedem dusz
-http://vodcdn-eu-01.planetapl.tv:80/vod/Seven_Pounds_2008_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Król rozrywki
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Greatest_Showman_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Reakcja łańcuchowa 2017
-http://vodcdn-eu-01.planetapl.tv:80/vod/Reakcja_lancuchowa_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Babadook
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Babadook_2014_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Podwójny profil
-http://vodcdn-eu-01.planetapl.tv:80/vod/Un_profil_pour_deux_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Traktorek Florek
-http://vodcdn-eu-01.planetapl.tv:80/vod/Gratass_Goy_pa_landet_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Niewidzialny chłopiec
-http://vodcdn-eu-01.planetapl.tv:80/vod/Il_ragazzo_invisibile_2014_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Brat 2: Misja w Chicago
-http://vodcdn-eu-01.planetapl.tv:80/vod/Brat_2_2000_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Brat
-http://vodcdn-eu-01.planetapl.tv:80/vod/Brat_1997_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Carte Blanche
-http://vodcdn-eu-01.planetapl.tv:80/vod/Carte_Blanche_2015_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Na tropie Marsupilami
-http://vodcdn-eu-01.planetapl.tv:80/vod/Sur_la_piste_du_Marsupilami_2012_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",La folle histoire de Max et Léon
-http://vodcdn-eu-01.planetapl.tv:80/vod/La_folle_histoire_de_Max_et_Leon_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Witamy u Hartmannów
-http://vodcdn-eu-01.planetapl.tv:80/vod/Willkommen_bei_den_Hartmanns_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Eskorta porucznika
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Ottoman_Lieutenant_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Leżący
-http://vodcdn-eu-01.planetapl.tv:80/vod/Gli_sdraiati_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Zatoka delfinów
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Cove_2009_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Wymyk
-http://vodcdn-eu-01.planetapl.tv:80/vod/Wymyk_2011_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Ostatnie pokolenie
-http://vodcdn-eu-01.planetapl.tv:80/vod/Young_Ones_2014_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Nocny stróż
-http://vodcdn-eu-01.planetapl.tv:80/vod/El_Sereno_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Podatek od miłości
-http://vodcdn-eu-01.planetapl.tv:80/vod/Podatek_od_milosci_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Randka w ciemno z życiem
-http://vodcdn-eu-01.planetapl.tv:80/vod/Mein_Blind_Date_mit_dem_Lebe_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Test na miłość
-http://vodcdn-eu-01.planetapl.tv:80/vod/Permission_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",The Master Cleanse
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Master_Cleanse_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",24 godziny po śmierci
-http://vodcdn-eu-01.planetapl.tv:80/vod/24_Hours_to_Live_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Wszyscy jesteśmy Chrystusami
-http://vodcdn-eu-01.planetapl.tv:80/vod/Wszyscy_jestesmy_Chrystusami_2006_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Ponad wszystko
-http://vodcdn-eu-01.planetapl.tv:80/vod/Everything_Everything_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Klucz do wieczności
-http://vodcdn-eu-01.planetapl.tv:80/vod/Self_less_2015_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Bobby en de Geestenjagers
-http://vodcdn-eu-01.planetapl.tv:80/vod/Bobby_en_de_Geestenjagers_2013_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Bobry
-http://vodcdn-eu-01.planetapl.tv:80/vod/Bobry_2013_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Cudowne lato
-http://vodcdn-eu-01.planetapl.tv:80/vod/Cudowne_lato_2010_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Ma famille t'adore déjà
-http://vodcdn-eu-01.planetapl.tv:80/vod/Ma_famille_tadore_deja_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Ziomalki
-http://vodcdn-eu-01.planetapl.tv:80/vod/Dude_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Stan niebłogosławiony
-http://vodcdn-eu-01.planetapl.tv:80/vod/Prevenge_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Twój wybór
-http://vodcdn-eu-01.planetapl.tv:80/vod/Lembarras_du_choix_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Cena prawdy
-http://vodcdn-eu-01.planetapl.tv:80/vod/Nothing_But_the_Truth_2008_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",The Florida Project
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Florida_Project_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Czarownica: Bajka ludowa z Nowej Anglii
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_VVitch_A_New_England_Folktale_2015_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",A Ghost Story
-http://vodcdn-eu-01.planetapl.tv:80/vod/A_Ghost_Story_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Niemiłość
-http://vodcdn-eu-01.planetapl.tv:80/vod/Nelyubov_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Notatnik Sary
-http://vodcdn-eu-01.planetapl.tv:80/vod/El_cuaderno_de_Sara_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Serce miłości
-http://vodcdn-eu-01.planetapl.tv:80/vod/Serce_milosci_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Upolowana
-http://vodcdn-eu-01.planetapl.tv:80/vod/Vikend_2015_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Oswobodzeni
-http://vodcdn-eu-01.planetapl.tv:80/vod/Unleashed_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Samochód Jayne Mansfield
-http://vodcdn-eu-01.planetapl.tv:80/vod/Jayne_Mansfields_Car_2012_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Bejrut
-http://vodcdn-eu-01.planetapl.tv:80/vod/Beirut_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",U niej w domu
-http://vodcdn-eu-01.planetapl.tv:80/vod/Dans_la_maison_2012_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Trolle
-http://vodcdn-eu-01.planetapl.tv:80/vod/Trolls_PL_2016.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Player One
-http://vodcdn-eu-01.planetapl.tv:80/vod/Ready_Player_One_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Zanurzeni
-http://vodcdn-eu-01.planetapl.tv:80/vod/Submergence_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Upperdog
-http://vodcdn-eu-01.planetapl.tv:80/vod/Upperdog_2009_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Zabić Jezusa
-http://vodcdn-eu-01.planetapl.tv:80/vod/Killing_Jesus_2015_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Wykolejony
-http://vodcdn-eu-01.planetapl.tv:80/vod/Derailed_2005_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Boscy piłkarze
-http://vodcdn-eu-01.planetapl.tv:80/vod/Que_baje_Dios_y_lo_vea_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Żadnych wątpliwości
-http://vodcdn-eu-01.planetapl.tv:80/vod/Otez_moi_dun_doute_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Mama i tata
-http://vodcdn-eu-01.planetapl.tv:80/vod/Mom_and_Dad_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Wicher
-http://vodcdn-eu-01.planetapl.tv:80/vod/Ostwind_2013_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Gaspard jedzie na ślub
-http://vodcdn-eu-01.planetapl.tv:80/vod/Gaspard_va_au_mariage_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Meet the Blacks
-http://vodcdn-eu-01.planetapl.tv:80/vod/Meet_the_Blacks_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Naznaczony: Ostatni klucz
-http://vodcdn-eu-01.planetapl.tv:80/vod/Insidious_The_Last_Key_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Głosy ze ściany
-http://vodcdn-eu-01.planetapl.tv:80/vod/Voice_from_the_Stone_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Nić widmo
-http://vodcdn-eu-01.planetapl.tv:80/vod/Phantom_Thread_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",The Fast and the Fierce
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Fast_and_the_Fierce_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Ja, Godard
-http://vodcdn-eu-01.planetapl.tv:80/vod/Le_Redoutable_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Dirty Dancing 2
-http://vodcdn-eu-01.planetapl.tv:80/vod/Dirty_Dancing_Havana_Nights_2004_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Dirty Dancing
-http://vodcdn-eu-01.planetapl.tv:80/vod/Dirty_Dancing_1987_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Escape Room
-http://vodcdn-eu-01.planetapl.tv:80/vod/Escape_Room_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Day of Reckoning
-http://vodcdn-eu-01.planetapl.tv:80/vod/Day_of_Reckoning_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Tour de France
-http://vodcdn-eu-01.planetapl.tv:80/vod/La_grande_boucle_2013_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Bękarty wojny
-http://vodcdn-eu-01.planetapl.tv:80/vod/Inglourious_Basterds_2009_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Syberyjska edukacja
-http://vodcdn-eu-01.planetapl.tv:80/vod/Educazione_siberiana_2013_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Zemsta to za mało
-http://vodcdn-eu-01.planetapl.tv:80/vod/Instant_Death_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Dla Ciebie i Ognia
-http://vodcdn-eu-01.planetapl.tv:80/vod/Dla_ciebie_i_ognia_2008_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",W ułamku sekundy
-http://vodcdn-eu-01.planetapl.tv:80/vod/Aus_dem_Nichts_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Gniew
-http://vodcdn-eu-01.planetapl.tv:80/vod/Romans_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Chiński łącznik
-http://vodcdn-eu-01.planetapl.tv:80/vod/China_Salesman_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Pałac wicekróla
-http://vodcdn-eu-01.planetapl.tv:80/vod/Viceroys_House_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Dirt
-http://vodcdn-eu-01.planetapl.tv:80/vod/Dirt_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Tam dom, gdzie serce Twoje
-http://vodcdn-eu-01.planetapl.tv:80/vod/Heart_of_the_Country_2013_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Eragon
-http://vodcdn-eu-01.planetapl.tv:80/vod/Eragon_2006_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Zaczarowany Las
-http://vodcdn-eu-01.planetapl.tv:80/vod/Kostebekgiller_Perili_Orman_2015_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Tylko nie miłość
-http://vodcdn-eu-01.planetapl.tv:80/vod/La_chance_de_ma_vie_2011_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Tajemnice Paryża: Zabójstwo na wieży Eiffla
-http://vodcdn-eu-01.planetapl.tv:80/vod/Mystere_a_la_Tour_Eiffel_2015_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Berlin Syndrome
-http://vodcdn-eu-01.planetapl.tv:80/vod/Berlin_Syndrome_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Saga Wikingów
-http://vodcdn-eu-01.planetapl.tv:80/vod/Northmen_A_Viking_Saga_2014_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Ciało
-http://vodcdn-eu-01.planetapl.tv:80/vod/Cialo_2003_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Listy do M.
-http://vodcdn-eu-01.planetapl.tv:80/vod/Listy_do_M_2011_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Najlepszy
-http://vodcdn-eu-01.planetapl.tv:80/vod/Najlepszy_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",The Man Who Invented Christmas
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Man_Who_Invented_Christmas_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Cirque du Soleil: Dalekie światy
-http://vodcdn-eu-01.planetapl.tv:80/vod/Cirque_du_Soleil_Worlds_Away_2012_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Swap
-http://vodcdn-eu-01.planetapl.tv:80/vod/Swap_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Kobiety mafii
-http://vodcdn-eu-01.planetapl.tv:80/vod/Kobiety_mafii_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Odwagi, New Jersey
-http://vodcdn-eu-01.planetapl.tv:80/vod/Brave_New_Jersey_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Lowriders
-http://vodcdn-eu-01.planetapl.tv:80/vod/Lowriders_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Disaster Artist
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Disaster_Artist_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Atrakcyjny pozna panią
-http://vodcdn-eu-01.planetapl.tv:80/vod/Atrakcyjny_pozna_pania_2004_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Krucyfiks
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Crucifixion_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Intryga
-http://vodcdn-eu-01.planetapl.tv:80/vod/Breaking_the_Girls_2012_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Metalfarm
-http://vodcdn-eu-01.planetapl.tv:80/vod/Metalfarm_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Roman Barbarzyńca
-http://vodcdn-eu-01.planetapl.tv:80/vod/Ronal_barbaren_2011_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Gnomy rozrabiają
-http://vodcdn-eu-01.planetapl.tv:80/vod/Gnome_Alone_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Swatamy swoich szefów
-http://vodcdn-eu-01.planetapl.tv:80/vod/Set_It_Up_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",The Crooked Man
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Crooked_Man_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Unforgettable
-http://vodcdn-eu-01.planetapl.tv:80/vod/Unforgettable_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Taśmy Watykanu
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Vatican_Tapes_2015_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Amityville: Przebudzenie
-http://vodcdn-eu-01.planetapl.tv:80/vod/Amityville_The_Awakening_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Cover Versions
-http://vodcdn-eu-01.planetapl.tv:80/vod/Cover_Versions_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Anna Karenina
-http://vodcdn-eu-01.planetapl.tv:80/vod/Anna_Karenina_2012_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Mine
-http://vodcdn-eu-01.planetapl.tv:80/vod/Mine_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Strefa wroga
-http://vodcdn-eu-01.planetapl.tv:80/vod/Zona_hostil_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Bóg w Krakowie
-http://vodcdn-eu-01.planetapl.tv:80/vod/Bog_w_Krakowie_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Na krawędzi
-http://vodcdn-eu-01.planetapl.tv:80/vod/Le_Fidele_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Bezlitosny
-http://vodcdn-eu-01.planetapl.tv:80/vod/Skin_Trade_2014_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Parker
-http://vodcdn-eu-01.planetapl.tv:80/vod/Parker_2013_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Pamiętam Cię
-http://vodcdn-eu-01.planetapl.tv:80/vod/I_Remember_You_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",The Kissing Booth
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Kissing_Booth_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Żądza śmierci
-http://vodcdn-eu-01.planetapl.tv:80/vod/Driven_to_Kill_2009_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Żona do podziału
-http://vodcdn-eu-01.planetapl.tv:80/vod/Pension_complete_2015_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",W kręgu nienawiści
-http://vodcdn-eu-01.planetapl.tv:80/vod/Some_Kind_of_Hate_2015_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Wielkie zimno
-http://vodcdn-eu-01.planetapl.tv:80/vod/Grand_froid_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Święta z pazurem
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Nine_Lives_of_Christmas_2014_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Boy 7
-http://vodcdn-eu-01.planetapl.tv:80/vod/Boy_7_2015_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Lara Croft Tomb Raider: Kolebka życia
-http://vodcdn-eu-01.planetapl.tv:80/vod/Lara_Croft_Tomb_Raider_2003_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Lara Croft: Tomb Raider
-http://vodcdn-eu-01.planetapl.tv:80/vod/Lara_Croft_Tomb_Raider_2001_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Gorący materiał
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Escort_2015_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Empire State: Ryzykowna gra
-http://vodcdn-eu-01.planetapl.tv:80/vod/Empire_State_2013_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Wojownicze Żółwie Ninja.
-http://vodcdn-eu-01.planetapl.tv:80/vod/Teenage_Mutant_Ninja_Turtles_1990_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Inwazja
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Invasion_2007_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Storm. Opowieść o odwadze
-http://vodcdn-eu-01.planetapl.tv:80/vod/Storm_Letters_van_Vuur_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Eva
-http://vodcdn-eu-01.planetapl.tv:80/vod/Eva_2011_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Szalone mamuśki
-http://vodcdn-eu-01.planetapl.tv:80/vod/Cougars_Inc_2011_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Cartels
-http://vodcdn-eu-01.planetapl.tv:80/vod/Cartels_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Mąż, czy nie mąż?
-http://vodcdn-eu-01.planetapl.tv:80/vod/Epouse_moi_mon_pote_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Ładunek
-http://vodcdn-eu-01.planetapl.tv:80/vod/Cargo_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Pasażer
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Commuter_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Body/Ciało
-http://vodcdn-eu-01.planetapl.tv:80/vod/Body_Cialo_2015_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Van Helsing
-http://vodcdn-eu-01.planetapl.tv:80/vod/Van_Helsing_2004_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",W sieci pająka
-http://vodcdn-eu-01.planetapl.tv:80/vod/Along_Came_a_Spider_2001_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",The Losers: Drużyna potępionych
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Losers_2010_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Na karuzeli życia
-http://vodcdn-eu-01.planetapl.tv:80/vod/Wonder_Wheel_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Rodin
-http://vodcdn-eu-01.planetapl.tv:80/vod/Rodin_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Zatrzymany
-http://vodcdn-eu-01.planetapl.tv:80/vod/La_colle_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Skok stulecia
-http://vodcdn-eu-01.planetapl.tv:80/vod/Den_of_Thieves_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Pradawny ląd
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Land_Before_Time_1988_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Dzwoneczek i uczynne wróżki
-http://vodcdn-eu-01.planetapl.tv:80/vod/Tinker_Bell_2010_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Dzwoneczek
-http://vodcdn-eu-01.planetapl.tv:80/vod/Tinker_Bell_2008_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Shrek Trzeci
-http://vodcdn-eu-01.planetapl.tv:80/vod/Shrek_the_Third_2007_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Zambezia
-http://vodcdn-eu-01.planetapl.tv:80/vod/Zambezia_2012_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Super Spark: Gwiezdna misja
-http://vodcdn-eu-01.planetapl.tv:80/vod/Spark_A_Space_Tail_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Planeta rekinów
-http://vodcdn-eu-01.planetapl.tv:80/vod/Planet_of_the_Sharks_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",The Darkest Dawn
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Darkest_Dawn_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Cyborg X
-http://vodcdn-eu-01.planetapl.tv:80/vod/Cyborg_X_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Uważaj, kochanie
-http://vodcdn-eu-01.planetapl.tv:80/vod/Better_Watch_Out_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",I tak cię kocham
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Big_Sick_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Thelma
-http://vodcdn-eu-01.planetapl.tv:80/vod/Thelma_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Tamte dni, tamte noce
-http://vodcdn-eu-01.planetapl.tv:80/vod/Call_Me_by_Your_Name_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Atak paniki
-http://vodcdn-eu-01.planetapl.tv:80/vod/Atak_paniki_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",The Clapper
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Clapper_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Weselny tydzień
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Week_Of_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Cud
-http://vodcdn-eu-01.planetapl.tv:80/vod/Stebuklas_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Narzeczony na niby
-http://vodcdn-eu-01.planetapl.tv:80/vod/Narzeczony_na_niby_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Służby specjalne
-http://vodcdn-eu-01.planetapl.tv:80/vod/Sluzby_specjalne_2014_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Chce się żyć
-http://vodcdn-eu-01.planetapl.tv:80/vod/Chce_sie_zyc_2013_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Road Games
-http://vodcdn-eu-01.planetapl.tv:80/vod/Road_Games_2015_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Champion 3: Odkupienie
-http://vodcdn-eu-01.planetapl.tv:80/vod/Undisputed_III_2010_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Champion 2
-http://vodcdn-eu-01.planetapl.tv:80/vod/Undisputed_II_2006_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",X-Men 2
-http://vodcdn-eu-01.planetapl.tv:80/vod/X2_2003_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",X-Men Geneza: Wolverine
-http://vodcdn-eu-01.planetapl.tv:80/vod/X_Men_Origins_Wolverine_2009_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",X-Men: Ostatni bastion
-http://vodcdn-eu-01.planetapl.tv:80/vod/X_Men_The_Last_Stand_2006_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",X-Men
-http://vodcdn-eu-01.planetapl.tv:80/vod/X_Men_2000_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Race 2
-http://vodcdn-eu-01.planetapl.tv:80/vod/Race_2_2013_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",13 dzielnica - Ultimatum
-http://vodcdn-eu-01.planetapl.tv:80/vod/Banlieue_13_Ultimatum_2009_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Efekt motyla 3
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Butterfly_Effect_3_2009_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Efekt motyla 2
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Butterfly_Effect_2_2006_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Efekt motyla
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Butterfly_Effect_2004_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",[REC] 4: Apokalipsa
-http://vodcdn-eu-01.planetapl.tv:80/vod/Rec_4_Apocalipsis_2014_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",[Rec] 3: Geneza
-http://vodcdn-eu-01.planetapl.tv:80/vod/Rec_3_Genesis_2012_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",[Rec] 2
-http://vodcdn-eu-01.planetapl.tv:80/vod/Rec_2_2009_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",[Rec]
-http://vodcdn-eu-01.planetapl.tv:80/vod/Rec_2007_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Pitch Perfect 3
-http://vodcdn-eu-01.planetapl.tv:80/vod/Pitch_Perfect_3_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Eliminatorzy
-http://vodcdn-eu-01.planetapl.tv:80/vod/Eliminators_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Kick-Ass 2
-http://vodcdn-eu-01.planetapl.tv:80/vod/Kick_Ass_2_2013_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Kick-Ass
-http://vodcdn-eu-01.planetapl.tv:80/vod/Kick_Ass_2010_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Dzwoneczek i zaginiony skarb
-http://vodcdn-eu-01.planetapl.tv:80/vod/Tinker_Bell_and_the_Lost_Treasure_2009_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Skaza
-http://vodcdn-eu-01.planetapl.tv:80/vod/Damage_2009_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",W niepewnym boju
-http://vodcdn-eu-01.planetapl.tv:80/vod/In_Dubious_Battle_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Wyścig Armatniej Kuli
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Cannonball_Run_1981_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Chciwość
-http://vodcdn-eu-01.planetapl.tv:80/vod/Margin_Call_2011_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Facet do wymiany
-http://vodcdn-eu-01.planetapl.tv:80/vod/Rockn_Roll_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Pickpockets
-http://vodcdn-eu-01.planetapl.tv:80/vod/Pickpockets_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Bez względu na wszystko
-http://vodcdn-eu-01.planetapl.tv:80/vod/Social_Animals_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Pierwsza walka
-http://vodcdn-eu-01.planetapl.tv:80/vod/First_Match_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Pełnia życia
-http://vodcdn-eu-01.planetapl.tv:80/vod/Breathe_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Pan i pani Adelman
-http://vodcdn-eu-01.planetapl.tv:80/vod/Mr_Mme_Adelman_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Uprowadzona Alice Creed
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Disappearance_of_Alice_Creed_2009_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Trzeci
-http://vodcdn-eu-01.planetapl.tv:80/vod/Trzeci_2004_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Krwawa Godzilla
-http://vodcdn-eu-01.planetapl.tv:80/vod/Red_Billabong_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Dżungla
-http://vodcdn-eu-01.planetapl.tv:80/vod/Jungle_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Zniknięcie Sidneya Halla
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Vanishing_of_Sidney_Hall_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Katyń
-http://vodcdn-eu-01.planetapl.tv:80/vod/Katyn_2007_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Trzy Siostry T
-http://vodcdn-eu-01.planetapl.tv:80/vod/Trzy_Siostry_T_2011_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",M jak morderca
-http://vodcdn-eu-01.planetapl.tv:80/vod/Hangman_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Cube Zero
-http://vodcdn-eu-01.planetapl.tv:80/vod/Cube_Zero_2004_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Cube 2: Hypercube
-http://vodcdn-eu-01.planetapl.tv:80/vod/Cube_2_Hypercube_2002_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Cube
-http://vodcdn-eu-01.planetapl.tv:80/vod/Cube_1997_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Wieczór panieński
-http://vodcdn-eu-01.planetapl.tv:80/vod/Bachelorette_2012_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Tiger Girl
-http://vodcdn-eu-01.planetapl.tv:80/vod/Tiger_Girl_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Opowieść
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Tale_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Twój Simon
-http://vodcdn-eu-01.planetapl.tv:80/vod/Love_Simon_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Szybki cash 2
-http://vodcdn-eu-01.planetapl.tv:80/vod/Snabba_cash_II_2012_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Szybki cash
-http://vodcdn-eu-01.planetapl.tv:80/vod/Snabba_cash_2010_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Rocker
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Rocker_2008_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Anon
-http://vodcdn-eu-01.planetapl.tv:80/vod/Anon_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Gotowi na wszystko. Exterminator
-http://vodcdn-eu-01.planetapl.tv:80/vod/Gotowi_na_wszystko_Exterminator_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Pszczółka Maja: Miodowe igrzyska
-http://vodcdn-eu-01.planetapl.tv:80/vod/Maya_the_Bee_The_Honey_Games_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Alex Strangelove
-http://vodcdn-eu-01.planetapl.tv:80/vod/Alex_Strangelove_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Ups! Arka odpłynęła
-http://vodcdn-eu-01.planetapl.tv:80/vod/Ooops_Noah_Is_Gone_2015_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Nowe oblicze Greya
-http://vodcdn-eu-01.planetapl.tv:80/vod/Fifty_Shades_Freed_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",The Horde
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Horde_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Słodki wybór
-http://vodcdn-eu-01.planetapl.tv:80/vod/Candy_Jar_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",To dopiero początek
-http://vodcdn-eu-01.planetapl.tv:80/vod/Just_Getting_Started_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Gwiezdne wojny: Ostatni Jedi
-http://vodcdn-eu-01.planetapl.tv:80/vod/Star_Wars_Episode_VIII_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Paddington 2
-http://vodcdn-eu-01.planetapl.tv:80/vod/Paddington_2_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Dwunastu odważnych
-http://vodcdn-eu-01.planetapl.tv:80/vod/12_Strong_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",The Titan
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Titan_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Więzień labiryntu: Lek na śmierć
-http://vodcdn-eu-01.planetapl.tv:80/vod/Maze_Runner_The_Death_Cure_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Je ne suis pas un homme facile
-http://vodcdn-eu-01.planetapl.tv:80/vod/film.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Legion samobójców: Piekielna misja
-http://vodcdn-eu-01.planetapl.tv:80/vod/Suicide_Squad_Hell_to_Pay_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Księżniczka łabędzi i królewska tajemnica
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Swan_Princess_A_Royal_Myztery_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Czarna Pantera
-http://vodcdn-eu-01.planetapl.tv:80/vod/Black_Panther_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",451 Fahrenheita
-http://vodcdn-eu-01.planetapl.tv:80/vod/Fahrenheit_451_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Czerwona jaskółka
-http://vodcdn-eu-01.planetapl.tv:80/vod/Red_Sparrow_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Ibiza
-http://vodcdn-eu-01.planetapl.tv:80/vod/Ibiza_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Wieczór gier
-http://vodcdn-eu-01.planetapl.tv:80/vod/Game_Night_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Tomb Raider
-http://vodcdn-eu-01.planetapl.tv:80/vod/Tomb_Raider_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Bękarty
-http://vodcdn-eu-01.planetapl.tv:80/vod/Father_Figures_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",O czym szumi las
-http://vodcdn-eu-01.planetapl.tv:80/vod/Dyrene_i_Hakkebakkeskogen_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Tygrysy ze stacji Shagou
-http://vodcdn-eu-01.planetapl.tv:80/vod/Railroad_Tigers_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Skarbiec
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Trust_2016.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Agent i pół
-http://vodcdn-eu-01.planetapl.tv:80/vod/Central_Intelligence_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Pogromca demonów
-http://vodcdn-eu-01.planetapl.tv:80/vod/Dont_Kill_It_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Strange Weather
-http://vodcdn-eu-01.planetapl.tv:80/vod/Strange_Weather_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Xiao men shen
-http://vodcdn-eu-01.planetapl.tv:80/vod/Xiao_men_shen_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Agentka specjalnej troski
-http://vodcdn-eu-01.planetapl.tv:80/vod/Raid_dingue_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Egzamin
-http://vodcdn-eu-01.planetapl.tv:80/vod/Graduation_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Sleepless
-http://vodcdn-eu-01.planetapl.tv:80/vod/Sleepless_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Dave Made a Maze
-http://vodcdn-eu-01.planetapl.tv:80/vod/Dave_Made_a_Maze_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Salut 7
-http://vodcdn-eu-01.planetapl.tv:80/vod/Salyut_7_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Patti Cakes
-http://vodcdn-eu-01.planetapl.tv:80/vod/Patti_Cakes_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Leavey
-http://vodcdn-eu-01.planetapl.tv:80/vod/Megan_Leavey_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Powiernik królowej
-http://vodcdn-eu-01.planetapl.tv:80/vod/Victoria_Abdul_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Żegnaj Christopher Robin
-http://vodcdn-eu-01.planetapl.tv:80/vod/Goodbye_Christopher_Robin_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",All Eyez on Me
-http://vodcdn-eu-01.planetapl.tv:80/vod/All_Eyez_on_Me_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Breakable You
-http://vodcdn-eu-01.planetapl.tv:80/vod/Breakable_You_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Piła: Dziedzictwo
-http://vodcdn-eu-01.planetapl.tv:80/vod/Jigsaw_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Twój Vincent
-http://vodcdn-eu-01.planetapl.tv:80/vod/Loving_Vincent_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Suburbicon
-http://vodcdn-eu-01.planetapl.tv:80/vod/Suburbicon_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Acts of Vengeance
-http://vodcdn-eu-01.planetapl.tv:80/vod/Acts_of_Vengeance_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Blok 99
-http://vodcdn-eu-01.planetapl.tv:80/vod/Brawl_in_Cell_Block_99_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Nowość
-http://vodcdn-eu-01.planetapl.tv:80/vod/Newness_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Jumanji: Przygoda w dżungli
-http://vodcdn-eu-01.planetapl.tv:80/vod/Jumanji_Welcome_to_the_Jungle_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Tulipanowa gorączka
-http://vodcdn-eu-01.planetapl.tv:80/vod/Tulip_Fever_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Pomniejszenie
-http://vodcdn-eu-01.planetapl.tv:80/vod/Downsizing_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Młynarski. Piosenka finałowa
-http://vodcdn-eu-01.planetapl.tv:80/vod/Mlynarski_Piosenka_finalowa_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Ślepy punkt
-http://vodcdn-eu-01.planetapl.tv:80/vod/Dode_Hoek_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Miłość w ciemności
-http://vodcdn-eu-01.planetapl.tv:80/vod/Blind_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Jak (nie) zapomnieć o byłym
-http://vodcdn-eu-01.planetapl.tv:80/vod/Les_ex_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Pierwsza gwiazdka
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Star_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Biegnij Amelio!
-http://vodcdn-eu-01.planetapl.tv:80/vod/Amelie_rennt_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Roxanne Roxanne
-http://vodcdn-eu-01.planetapl.tv:80/vod/Roxanne_Roxanne_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Skazany
-http://vodcdn-eu-01.planetapl.tv:80/vod/Shot_Caller_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Bullet Head
-http://vodcdn-eu-01.planetapl.tv:80/vod/Bullet_Head_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Podzielony
-http://vodcdn-eu-01.planetapl.tv:80/vod/QEDA_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Listy do M. 3
-http://vodcdn-eu-01.planetapl.tv:80/vod/Listy_do_M_3_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Anihilacja
-http://vodcdn-eu-01.planetapl.tv:80/vod/Annihilation_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Roman J. Israel, Esq.
-http://vodcdn-eu-01.planetapl.tv:80/vod/Roman_J_Israel_Esq_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Nie ma drugiej takiej
-http://vodcdn-eu-01.planetapl.tv:80/vod/Irreplaceable_You_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Welcome the Stranger
-http://vodcdn-eu-01.planetapl.tv:80/vod/Welcome_the_Stranger_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Frantz
-http://vodcdn-eu-01.planetapl.tv:80/vod/Frantz_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Benji
-http://vodcdn-eu-01.planetapl.tv:80/vod/Benji_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Watchmen. Strażnicy
-http://vodcdn-eu-01.planetapl.tv:80/vod/Watchmen_2009_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Dredd
-http://vodcdn-eu-01.planetapl.tv:80/vod/Dredd_2012_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Zając Max ratuje Wielkanoc
-http://vodcdn-eu-01.planetapl.tv:80/vod/Die_Haschenschule_Jagd_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Game Over, Man!
-http://vodcdn-eu-01.planetapl.tv:80/vod/Game_Over_Man_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Śmierć nadejdzie dziś
-http://vodcdn-eu-01.planetapl.tv:80/vod/Happy_Death_Day_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Spotkanie na szczycie
-http://vodcdn-eu-01.planetapl.tv:80/vod/La_Cordillera_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Nasz najlepszy rok
-http://vodcdn-eu-01.planetapl.tv:80/vod/Ce_qui_nous_lie_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Borg\\/McEnroe. Między odwagą a szaleństwem
-http://vodcdn-eu-01.planetapl.tv:80/vod/Borg_McEnroe_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Wygłodniali
-http://vodcdn-eu-01.planetapl.tv:80/vod/Les_affames_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Wyznania mordercy
-http://vodcdn-eu-01.planetapl.tv:80/vod/Memoirs_of_a_Murderer_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Tom of Finland
-http://vodcdn-eu-01.planetapl.tv:80/vod/Tom_of_Finland_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Landline
-http://vodcdn-eu-01.planetapl.tv:80/vod/Landline_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Marsz pingwinów 2: Przygoda na krańcu świata
-http://vodcdn-eu-01.planetapl.tv:80/vod/L_empereur_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Nowicjat
-http://vodcdn-eu-01.planetapl.tv:80/vod/Novitiate_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Złote wyjście
-http://vodcdn-eu-01.planetapl.tv:80/vod/Golden_Exits_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Złe mamuśki 2: Jak przetrwać święta
-http://vodcdn-eu-01.planetapl.tv:80/vod/A_Bad_Moms_Christmas_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Rytuał
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Ritual_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Marshall
-http://vodcdn-eu-01.planetapl.tv:80/vod/Marshall_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Tylko dla odważnych
-http://vodcdn-eu-01.planetapl.tv:80/vod/Only_the_Brave_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Trzy billboardy za Ebbing, Missouri
-http://vodcdn-eu-01.planetapl.tv:80/vod/Three_Billboards_Outside_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Kawalerskie życie
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Bachelors_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Kingsman: Złoty krąg
-http://vodcdn-eu-01.planetapl.tv:80/vod/Kingsman_The_Golden_Circle_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",American Assassin
-http://vodcdn-eu-01.planetapl.tv:80/vod/American_Assassin_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",The Polka King
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Polka_King_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Botoks
-http://vodcdn-eu-01.planetapl.tv:80/vod/Botoks_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Ptaki śpiewają w Kigali
-http://vodcdn-eu-01.planetapl.tv:80/vod/Ptaki_spiewaja_w_Kigali_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Geostorm
-http://vodcdn-eu-01.planetapl.tv:80/vod/Geostorm_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Na układy nie ma rady
-http://vodcdn-eu-01.planetapl.tv:80/vod/Na_uklady_nie_ma_rady_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Chwała bohaterom
-http://vodcdn-eu-01.planetapl.tv:80/vod/Thank_You_for_Your_Service_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",My Little Pony. Film
-http://vodcdn-eu-01.planetapl.tv:80/vod/My_Little_Pony_The_Movie_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Professor Marston and the Wonder Women
-http://vodcdn-eu-01.planetapl.tv:80/vod/Professor_Marston_and_the_Wonder_Women_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Morderstwo w Orient Expressie
-http://vodcdn-eu-01.planetapl.tv:80/vod/Murder_on_the_Orient_Express_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",The Square
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Square_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Potworna rodzinka
-http://vodcdn-eu-01.planetapl.tv:80/vod/Happy_Family_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Wind River. Na przeklętej ziemi
-http://vodcdn-eu-01.planetapl.tv:80/vod/Wind_River_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Same Kind of Different as Me
-http://vodcdn-eu-01.planetapl.tv:80/vod/Same_Kind_of_Different_as_Me_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Sprawa Chrystusa
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Case_for_Christ_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Qui pro quo
-http://vodcdn-eu-01.planetapl.tv:80/vod/Lun_dans_lautre_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Liga Sprawiedliwości
-http://vodcdn-eu-01.planetapl.tv:80/vod/Justice_League_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Paradoks Cloverfield
-http://vodcdn-eu-01.planetapl.tv:80/vod/God_Particle_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Osobliwość
-http://vodcdn-eu-01.planetapl.tv:80/vod/Singularity_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",FullMetal Alchemist
-http://vodcdn-eu-01.planetapl.tv:80/vod/Hagane_no_renkinjutsushi_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Człowiek z magicznym pudełkiem
-http://vodcdn-eu-01.planetapl.tv:80/vod/Czlowiek_z_magicznym_pudelkiem_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Cudzoziemiec
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Foreigner_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Captain Fantastic
-http://vodcdn-eu-01.planetapl.tv:80/vod/Captain_Fantastic_2016_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Scooby-Doo! i Batman: Odważniaki i straszaki
-http://vodcdn-eu-01.planetapl.tv:80/vod/Scooby_Doo_Batman_the_Brave_and_the_Bold_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Co wiecie o swoich dziadkach?
-http://vodcdn-eu-01.planetapl.tv:80/vod/Daddys_Home_2_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Wszyscy moi mężczyźni
-http://vodcdn-eu-01.planetapl.tv:80/vod/Home_Again_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Thor: Ragnarok
-http://vodcdn-eu-01.planetapl.tv:80/vod/Thor_Ragnarock_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Dusza i ciało
-http://vodcdn-eu-01.planetapl.tv:80/vod/On_Body_and_Soul_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Outsider.
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Outsider_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Kształt wody
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Shape_of_Water_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Grzeczny i grzeszny
-http://vodcdn-eu-01.planetapl.tv:80/vod/Youth_in_Revolt_2009_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Plemiona Palos Verdes
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Tribes_of_Palos_Verdes_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Świąteczny książę
-http://vodcdn-eu-01.planetapl.tv:80/vod/A_Christmas_Prince_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Zgoda
-http://vodcdn-eu-01.planetapl.tv:80/vod/Zgoda_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Łowcy smoków
-http://vodcdn-eu-01.planetapl.tv:80/vod/Chasseurs_de_dragons_2008_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Pan
-http://vodcdn-eu-01.planetapl.tv:80/vod/Accident_Man_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Death Race 2. Wyścig śmierci 2
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/94/37/219437/7213405.3.jpg",Death Race: Death Race: Wyścig śmierci (2008)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Death_Race_2008_PL.dvd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/60/62/556062/7359363_1.6.jpg",Death Race 2. Wyścig śmierci 2 (2010)
 http://vodcdn-eu-01.planetapl.tv:80/vod/Death_Race_2_2010_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Między nami wampirami
-http://vodcdn-eu-01.planetapl.tv:80/vod/The_Little_Vampire_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Bez słowa
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/97/67/609767/7644639.3.jpg",Death Race: Inferno (2012)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Death_Race_Inferno_2013_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/14/47/1447/7295991.3.jpg",15 minut (2001)
+http://vodcdn-eu-01.planetapl.tv:80/vod/15_Minutes_2001_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/79/17/797917/7829348.3.jpg",15:17 do Paryża (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_15_17_to_Paris_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/84/37/318437/7322785.5.jpg",Przypadek 39 (2009)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Case_39_2009_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/32/63/783263/7836735.3.jpg",6 balonów (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/6_Balloons_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/83/24/628324/7517889.3.jpg",6 kul (2012)
+http://vodcdn-eu-01.planetapl.tv:80/vod/6_Bullets_2012_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/16/68/701668/7682034.3.jpg",52 wtorki (2013)
+http://vodcdn-eu-01.planetapl.tv:80/vod/52_Tuesdays_2013_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/81/32/758132/7777626.3.jpg",24 tygodnie (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/24_Wochen_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/45/89/804589/7836872.3.jpg",Udanej rocznicy! (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Happy_Anniversary_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/00/91/720091/7794176.3.jpg",Revolt (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Revolt_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/99/74/459974/7380825.3.jpg",Siedem dusz (2008)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Seven_Pounds_2008_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/62/42/536242/7819060.3.jpg",Król rozrywki (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Greatest_Showman_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/27/04/782704/7803619.3.jpg",Reakcja łańcuchowa (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Reakcja_lancuchowa_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/81/32/778132/7788512.3.jpg",Podwójny profil (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Un_profil_pour_deux_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/39/03/703903/7827847.3.jpg",Niewidzialny chłopiec (2014)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Il_ragazzo_invisibile_2014_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/56/42/35642/7741338.3.jpg",Brat (1997)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Brat_1997_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/13/67/1367/7741339.3.jpg",Brat 2: Misja w Chicago (2000)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Brat_2_2000_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/29/37/702937/7661087.6.jpg",Carte Blanche (2015)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Carte_Blanche_2015_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/00/23/630023/7481309.3.jpg",Na tropie Marsupilami (2012)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Sur_la_piste_du_Marsupilami_2012_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/60/96/756096/7770050.3.jpg",Zwariowana historia Maxa i Leona (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/La_folle_histoire_de_Max_et_Leon_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/80/87/778087/7787280.3.jpg",Witamy u Hartmannów (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Willkommen_bei_den_Hartmanns_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/81/33/778133/7782209.3.jpg",Eskorta porucznika (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Ottoman_Lieutenant_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/34/15/803415/7831151.3.jpg",Leżący (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Gli_sdraiati_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/64/65/496465/7326313.3.jpg",Zatoka delfinów (2009)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Cove_2009_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/71/43/587143/7401316.3.jpg",Wymyk (2011)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Wymyk_2011_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/13/90/681390/7818920.3.jpg",Ostatnie pokolenie (2014)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Young_Ones_2014_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/85/77/808577/7887229.3.jpg",Nocny stróż (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/El_Sereno_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/30/32/783032/7823052.3.jpg",Podatek od miłości (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Podatek_od_milosci_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/40/83/744083/7770038.3.jpg",Randka w ciemno z życiem (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Mein_Blind_Date_mit_dem_Lebe_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/33/03/763303/7817986.6.jpg",Test na miłość (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Permission_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/62/52/736252/7698246.3.jpg",The Master Cleanse (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Master_Cleanse_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/64/26/796426/7815142.3.jpg",24 godziny po śmierci (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/24_Hours_to_Live_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/17/25/231725/7521215.3.jpg",Wszyscy jesteśmy Chrystusami (2006)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Wszyscy_jestesmy_Chrystusami_2006_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/98/01/779801/7784956.3.jpg",Ponad wszystko (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Everything_Everything_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/66/39/686639/7694523.3.jpg",Klucz do wieczności (2015)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Self_less_2015_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/55/98/675598/7531774.3.jpg",Bobby i łowcy duchów (2013)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Bobby_en_de_Geestenjagers_2013_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/11/35/681135/7625181.6.jpg",Bobry (2013)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Bobry_2013_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/90/12/479012/7353506.3.jpg",Cudowne lato (2010)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Cudowne_lato_2010_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/31/91/763191/7759252.3.jpg",Moja rodzina juz cię uwielbia (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Ma_famille_tadore_deja_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/51/59/795159/7843477.3.jpg",Ziomalki (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Dude_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/46/63/774663/7787002.3.jpg",Stan niebłogosławiony (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Prevenge_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/47/48/784748/7785772.3.jpg",Twój wybór (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Lembarras_du_choix_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/12/43/451243/7565180.3.jpg",Cena prawdy (2008)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Nothing_But_the_Truth_2008_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/73/09/787309/7819001.6.jpg",Projekt Floryda (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Florida_Project_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/91/57/729157/7784969.6.jpg",Czarownica: Bajka ludowa z Nowej Anglii (2015)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_VVitch_A_New_England_Folktale_2015_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/31/95/783195/7810967.3.jpg",Ghost Story (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/A_Ghost_Story_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/74/56/777456/7810435.3.jpg",Niemiłość (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Nelyubov_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/35/68/803568/7872264.3.jpg",Notatnik Sary (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/El_cuaderno_de_Sara_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/92/11/779211/7808511.3.jpg",Serce miłości (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Serce_milosci_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/79/74/757974/7735258.6.jpg",Upolowana (2015)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Vikend_2015_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/45/01/754501/7792203.3.jpg",Oswobodzeni (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Unleashed_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/89/05/608905/7455883.3.jpg",Samochód Jayne Mansfield (2012)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Jayne_Mansfields_Car_2012_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/73/70/747370/7823791.3.jpg",Bejrut (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Beirut_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/97/89/629789/7543147.3.jpg",U niej w domu (2012)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Dans_la_maison_2012_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/98/89/719889/7835365.3.jpg",Player One (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Ready_Player_One_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/77/51/757751/7846551.3.jpg",Zanurzeni (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Submergence_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/56/53/505653/7266900.3.jpg",Upperdog (2009)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Upperdog_2009_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/45/10/114510/7538483.3.jpg",Wykolejony (2005)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Derailed_2005_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/44/65/814465/7879883.3.jpg",Boscy piłkarze (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Que_baje_Dios_y_lo_vea_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/46/81/774681/7797524.3.jpg",Żadnych wątpliwości (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Otez_moi_dun_doute_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/51/24/765124/7850041.3.jpg",Mama i tata (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Mom_and_Dad_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/35/06/663506/7722966.3.jpg",Wicher (2013)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Ostwind_2013_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/87/23/778723/7831419.3.jpg",Gaspard jedzie na ślub (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Gaspard_va_au_mariage_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/61/01/756101/7737954.3.jpg",Niefortunna przeprowadzka (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Meet_the_Blacks_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/98/40/559840/7384920.6.jpg",Naznaczony (2010)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Insidious_2010_PL.dvd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/20/49/642049/7563709.3.jpg",Naznaczony: rozdział 2 (2013)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Insidious_Chapter_2_2013_PL.dvd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/72/11/697211/7690477.3.jpg",Naznaczony: rozdział 3 (2015)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Insidious_Chapter_3_2015_PL.dvd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/18/93/751893/7822099.3.jpg",Naznaczony: Ostatni klucz (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Insidious_The_Last_Key_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/93/45/549345/7808526.3.jpg",Głosy ze ściany (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Voice_from_the_Stone_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/96/87/789687/7831889.3.jpg",Nić widmo (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Phantom_Thread_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/58/86/795886/7830465.3.jpg",Śmiertelny pułap (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Fast_and_the_Fierce_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/50/15/775015/7826185.3.jpg",Ja, Godard (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Le_Redoutable_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/17/26/11726/7169736.3.jpg",Dirty Dancing (1987)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Dirty_Dancing_1987_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/95/03/99503/7253372.6.jpg",Dirty Dancing 2 (2004)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Dirty_Dancing_Havana_Nights_2004_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/69/89/796989/7817762.6.jpg",Escape Room (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Escape_Room_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/33/89/793389/7827347.3.jpg",Dzień sądu (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Day_of_Reckoning_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/63/35/686335/7555511.3.jpg",Tour de France (2013)
+http://vodcdn-eu-01.planetapl.tv:80/vod/La_grande_boucle_2013_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/77/47/137747/7276639.3.jpg",Bękarty wojny (2009)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Inglourious_Basterds_2009_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/74/01/617401/7540242.3.jpg",Syberyjska edukacja (2013)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Educazione_siberiana_2013_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/73/84/757384/7836891.3.jpg",Zemsta to za mało (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Instant_Death_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/65/78/476578/7190576.3.jpg",Dla Ciebie i Ognia (2008)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Dla_ciebie_i_ognia_2008_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/67/74/786774/7871978.3.jpg",W ułamku sekundy (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Aus_dem_Nichts_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/89/25/758925/7816516.3.jpg",Gniew (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Romans_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/40/77/794077/7818631.3.jpg",Chiński łącznik (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/China_Salesman_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/46/40/754640/7774599.3.jpg",Pałac wicekróla (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Viceroys_House_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/31/79/333179/7876854.3.jpg",Brud (2019)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Dirt_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/25/89/652589/7775486.3.jpg",Tam dom, gdzie serce Twoje (2013)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Heart_of_the_Country_2013_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/60/74/196074/7537948.6.jpg",Eragon (2006)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Eragon_2006_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/14/10/591410/7504213.3.jpg",Tylko nie miłość (2011)
+http://vodcdn-eu-01.planetapl.tv:80/vod/La_chance_de_ma_vie_2011_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.chili.com/images/public/cms/9f/d5/42/79/9fd54279-89ad-400a-a13d-ce0dbc343026.jpg?width=1848",Tajemnice Paryża: Zabojstwo na Wieży Eiffla (2015)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Mystere_a_la_Tour_Eiffel_2015_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/60/26/706026/7776875.3.jpg",Syndrom berliński (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Berlin_Syndrome_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/33/86/693386/7686639.3.jpg",Saga Wikingów (2014)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Northmen_A_Viking_Saga_2014_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/67/50/36750/6900657.6.jpg",Ciało (2003)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Cialo_2003_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/35/10/613510/7403102.6.jpg",Listy do M. (2011)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Listy_do_M_2011_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/90/43/779043/7804925.6.jpg",Listy do M. 3 (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Listy_do_M_3_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/27/00/772700/7802674.3.jpg",Najlepszy (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Najlepszy_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/76/74/787674/7802675.3.jpg",The Man Who Invented Christmas (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Man_Who_Invented_Christmas_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/05/92/650592/7569781.6.jpg",Cirque du Soleil: Dalekie światy (2012)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Cirque_du_Soleil_Worlds_Away_2012_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/70/33/757033/7734729.3.jpg",Swap (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Swap_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/57/58/795758/7823050.6.jpg",Kobiety mafii (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Kobiety_mafii_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/74/86/747486/7755364.6.jpg",Odwagi, New Jersey (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Brave_New_Jersey_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/97/31/559731/7787493.3.jpg",Lowriders (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Lowriders_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/45/38/714538/7817761.3.jpg",Disaster Artist (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Disaster_Artist_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/36/66/93666/7535176.3.jpg",Atrakcyjny pozna panią (2004)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Atrakcyjny_pozna_pania_2004_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/24/40/732440/7803791.3.jpg",Krucyfiks (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Crucifixion_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/14/72/541472/7503937.5.jpg",Intryga (2013)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Breaking_the_Girls_2012_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/19/64/801964/7844875.3.jpg",Swatamy swoich szefów (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Set_It_Up_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/33/18/783318/7804968.3.jpg",The Crooked Man (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Crooked_Man_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/31/02/733102/7776736.3.jpg",Niezapomniany (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Unforgettable_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/46/99/544699/7687090.3.jpg",Taśmy Watykanu (2015)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Vatican_Tapes_2015_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/51/43/625143/7817988.3.jpg",Amityville: Przebudzenie (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Amityville_The_Awakening_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/56/33/785633/7846136.3.jpg",Cover Versions (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Cover_Versions_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/01/85/620185/7495318.3.jpg",Anna Karenina (2012)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Anna_Karenina_2012_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/49/14/714914/7804287.3.jpg",Mina (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Mine_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/29/21/762921/7798267.3.jpg",Strefa wroga (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Zona_hostil_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/15/44/761544/7736907.3.jpg",Bóg w Krakowie (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Bog_w_Krakowie_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/76/93/757693/7818922.3.jpg",Na krawędzi (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Le_Fidele_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/27/37/572737/7695547.3.jpg",Bezlitosny (2014)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Skin_Trade_2014_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/16/76/621676/7543977.3.jpg",Parker (2013)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Parker_2013_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/12/22/771222/7807261.3.jpg",Pamiętam Cię (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/I_Remember_You_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/64/14/796414/7843587.6.jpg",The Kissing Booth (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Kissing_Booth_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/68/23/486823/7291217.3.jpg",Żądza śmierci (2009)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Driven_to_Kill_2009_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/07/60/750760/7770456.3.jpg",Żona do podziału (2015)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Pension_complete_2015_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/94/46/719446/7744512.3.jpg",W kręgu nienawiści (2015)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Some_Kind_of_Hate_2015_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/27/78/762778/7830251.3.jpg",Wielkie zimno (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Grand_froid_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/98/24/719824/7767815.3.jpg",Święta z pazurem (2014)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Nine_Lives_of_Christmas_2014_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/54/71/725471/7744813.6.jpg",Boy 7 (2015)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Boy_7_2015_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/14/66/1466/7518101.3.jpg",Lara Croft: Tomb Raider (2001)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Lara_Croft_Tomb_Raider_2001_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/41/96/34196/7528130.3.jpg",Lara Croft Tomb Raider: Kolebka życia (2003)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Lara_Croft_Tomb_Raider_2003_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/74/79/557479/7821525.3.jpg",Tomb Raider (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Tomb_Raider_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/58/52/735852/7840308.3.jpg",Gorący materiał (2015)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Escort_2015_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/37/07/643707/7584453.3.jpg",Empire State: Ryzykowna gra (2013)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Empire_State_2013_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/14/73/31473/7128873.6.jpg",Wojownicze Żółwie Ninja (1990)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Teenage_Mutant_Ninja_Turtles_1990_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/36/08/163608/7183743.3.jpg",Inwazja (2007)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Invasion_2007_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/22/02/792202/7823393.3.jpg",Storm. Opowieść o odwadze (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Storm_Letters_van_Vuur_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/94/74/509474/7509131.3.jpg",Eva (2011)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Eva_2011_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/65/10/516510/7362325.3.jpg",Szalone mamuśki (2011)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Cougars_Inc_2011_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://podobnefilmy.com/img_pl/movie/thumb/40/24921.jpg",Cartels (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Cartels_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/62/60/786260/7829516.3.jpg",Mąż, czy nie mąż? (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Epouse_moi_mon_pote_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/31/61/803161/7830596.3.jpg",Ładunek (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Cargo_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/01/09/560109/7818921.3.jpg",Pasażer (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Commuter_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/40/87/714087/7674619.3.jpg",Body/Ciało (2015)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Body_Cialo_2015_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/43/59/104359/7537947.6.jpg",Van Helsing (2004)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Van_Helsing_2004_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/37/97/3797/6931724.3.jpg",W sieci pająka (2001)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Along_Came_a_Spider_2001_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/52/07/295207/7337609.3.jpg",The Losers: Drużyna potępionych (2010)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Losers_2010_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/82/28/788228/7810431.3.jpg",Na karuzeli życia (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Wonder_Wheel_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/52/64/775264/7786007.3.jpg",Rodin (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Rodin_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/77/55/807755/7844185.3.jpg",Zatrzymany (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/La_colle_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/99/51/739951/7840131.3.jpg",Skok stulecia (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Den_of_Thieves_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/81/47/768147/7765097.3.jpg",Planeta rekinów (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Planet_of_the_Sharks_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/61/24/786124/7871573.6.jpg",The Darkest Dawn (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Darkest_Dawn_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/45/67/724567/7668802.3.jpg",Cyborg X (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Cyborg_X_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/35/30/753530/7845801.3.jpg",Uważaj, kochanie (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Better_Watch_Out_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/10/68/781068/7815420.3.jpg",I tak cię kocham (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Big_Sick_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/27/76/782776/7838121.6.jpg",Thelma (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Thelma_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/93/94/779394/7820187.6.jpg",Tamte dni, tamte noce (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Call_Me_by_Your_Name_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/28/05/772805/7807260.3.jpg",Atak paniki (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Atak_paniki_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/83/36/788336/7843740.3.jpg",The Clapper (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Clapper_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/00/88/800088/7841413.3.jpg",Weselny tydzień (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Week_Of_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/27/16/772716/7849217.3.jpg",Cud (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Stebuklas_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/02/57/790257/7817675.3.jpg",Narzeczony na niby (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Narzeczony_na_niby_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/98/81/699881/7637158.3.jpg",Służby specjalne (2014)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Sluzby_specjalne_2014_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/89/82/648982/7566099.3.jpg",Chce się żyć (2013)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Chce_sie_zyc_2013_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/49/34/724934/7745228.3.jpg",Autostopem po śmierć (2015)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Road_Games_2015_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/16/00/221600/7574927.6.jpg",Champion 2 (2006)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Undisputed_II_2006_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/97/80/469780/7323919.6.jpg",Champion 3: Odkupienie (2010)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Undisputed_III_2010_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/09/69/969/7692832.3.jpg",X-Men (2000)
+http://vodcdn-eu-01.planetapl.tv:80/vod/X_Men_2000_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/33/93/33393/7885612.3.jpg",X-Men 2 (2003)
+http://vodcdn-eu-01.planetapl.tv:80/vod/X2_2003_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/64/11/106411/7529194.6.jpg",X-Men: Ostatni bastion (2006)
+http://vodcdn-eu-01.planetapl.tv:80/vod/X_Men_The_Last_Stand_2006_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/92/80/489280/7371009.6.jpg",X-Men: Pierwsza klasa (2011)
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/43/07/214307/7236694.3.jpg",X-Men Geneza: Wolverine (2009)
+http://vodcdn-eu-01.planetapl.tv:80/vod/X_Men_Origins_Wolverine_2009_PL.hd.m4v/index.m3u8
+http://vodcdn-eu-01.planetapl.tv:80/vod/X_First_Class_2011_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/50/48/515048/7559330.3.jpg",Wolverine (2013)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Wolverine_2013_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/09/57/500957/7511272.6.jpg",Wyścig 2 (2013)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Race_2_2013_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/79/15/487915/7304004.6.jpg",13 dzielnica Ultimatum (2009)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Banlieue_13_Ultimatum_2009_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/02/52/40252/7535972.3.jpg",Efekt motyla (2004)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Butterfly_Effect_2004_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/43/05/214305/7177655.6.jpg",Efekt motyla 2 (2006)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Butterfly_Effect_2_2006_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/22/88/482288/7301923.3.jpg",Efekt motyla 3 (2009)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Butterfly_Effect_3_2009_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/53/53/445353/7198306.6.jpg",[Rec] (2007)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Rec_2007_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/41/20/484120/7296142.6.jpg",[Rec] 2 (2009)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Rec_2_2009_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/40/33/544033/7451352.3.jpg",[Rec] 3: Geneza (2012)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Rec_3_Genesis_2012_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/78/29/567829/7651457.6.jpg",[REC] 4: Apokalipsa (2014)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Rec_4_Apocalipsis_2014_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/25/60/632560/7728439.6.jpg",Pitch Perfect (2012)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Pitch_Perfect_2012_PL.dvd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/43/27/744327/7816386.3.jpg",Pitch Perfect 3 (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Pitch_Perfect_3_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/32/07/753207/7831272.3.jpg",Eliminatorzy (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Eliminators_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/90/66/489066/7320031.3.jpg",Kick-Ass (2010)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Kick_Ass_2010_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/82/89/568289/7557541.3.jpg",Kick-Ass 2 (2013)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Kick_Ass_2_2013_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/35/53/493553/7422203.3.jpg",Skaza (2009)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Damage_2009_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/74/62/737462/7693895.6.jpg",W niepewnym boju (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/In_Dubious_Battle_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/18/33/11833/6908264.3.jpg",Wyścig Armatniej Kuli (1981)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Cannonball_Run_1981_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/89/05/568905/7415541.3.jpg",Chciwość (2011)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Margin_Call_2011_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/59/17/765917/7792891.3.jpg",Facet do wymiany (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Rockn_Roll_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/93/39/809339/7847843.3.jpg",Pickpockets: Maestros del robo (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Pickpockets_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/73/59/797359/7840920.3.jpg",Bez względu na wszystko (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Social_Animals_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/28/56/792856/7836347.3.jpg",Pierwsza walka (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/First_Match_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/72/35/777235/7819057.3.jpg",Pełnia życia (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Breathe_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/65/90/786590/7869735.3.jpg",Pan i pani Adelman (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Mr_Mme_Adelman_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/13/52/521352/7345928.5.jpg",Uprowadzona Alice Creed (2009)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Disappearance_of_Alice_Creed_2009_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/33/85/143385/6961844.3.jpg",Trzeci (2004)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Trzeci_2004_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/14/08/741408/7697450.3.jpg",Krwawa Godzilla (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Red_Billabong_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/59/56/765956/7817579.6.jpg",Dżungla (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Jungle_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/18/70/771870/7823376.3.jpg",Zniknięcie Sidneya Halla (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Vanishing_of_Sidney_Hall_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/19/56/271956/7261586.6.jpg",Katyń (2007)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Katyn_2007_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/66/92/636692/7491869.3.jpg",Trzy Siostry T (2011)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Trzy_Siostry_T_2011_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/76/86/787686/7816451.3.jpg",M jak morderca (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Hangman_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/07/77/777/6900964.6.jpg",Cube (1997)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Cube_1997_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/23/85/32385/6912003.6.jpg",Cube 2 (2002)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Cube_2_Hypercube_2002_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/79/65/107965/7295376.3.jpg",Cube Zero (2004)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Cube_Zero_2004_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/75/54/627554/7486498.3.jpg",Wieczór panieński (2012)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Bachelorette_2012_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/41/21/794121/7835183.3.jpg",Tiger Girl (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Tiger_Girl_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/97/31/789731/7840579.3.jpg",Opowieść (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Tale_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/72/46/797246/7829521.3.jpg",Twój Simon (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Love_Simon_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/89/31/508931/7487704.3.jpg",Szybki cash (2010)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Snabba_cash_2010_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/76/85/637685/7560249.3.jpg",Szybki cash 2 (2012)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Snabba_cash_II_2012_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/88/99/438899/7249529.3.jpg",Rocker (2008)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Rocker_2008_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/36/18/763618/7840405.3.jpg",Anon (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Anon_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/79/51/787951/7815294.3.jpg",Gotowi na wszystko. Exterminator (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Gotowi_na_wszystko_Exterminator_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/81/05/808105/7844359.3.jpg",Alex Strangelove (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Alex_Strangelove_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/58/60/735860/7774489.3.jpg",Ciemniejsza strona Greya (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Fifty_Shades_Darker_2017_PL.dvd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/61/50/736150/7828579.3.jpg",Nowe oblicze Greya (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Fifty_Shades_Freed_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/90/60/729060/7735071.3.jpg",Horda (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Horde_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/39/90/803990/7841412.3.jpg",Słodki wybór (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Candy_Jar_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/60/97/776097/7814978.3.jpg",To dopiero początek (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Just_Getting_Started_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/25/73/712573/7756329.3.jpg",Łotr 1. Gwiezdne wojny historie (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Rogue_One_2016_PL.dvd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/10/49/671049/7808454.6.jpg",Gwiezdne wojny: Ostatni Jedi (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Star_Wars_Episode_VIII_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/91/04/759104/7814883.3.jpg",Paddington 2 (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Paddington_2_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/30/27/783027/7840130.3.jpg",Dwunastu odważnych (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/12_Strong_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/56/19/755619/7834716.5.jpg",The Titan (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Titan_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/43/71/724371/7701961.3.jpg",Więzień labiryntu: Próby ognia (2015)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Maze_Runner_The_Scorch_Trials_2015_PL.dvd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/04/44/740444/7819035.3.jpg",Więzień labiryntu: Lek na śmierć (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Maze_Runner_The_Death_Cure_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/76/70/807670/7840436.3.jpg",Nie jestem łatwy (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/film.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/25/50/802550/7838922.3.jpg",Legion samobójców: Piekielna misja (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Suicide_Squad_Hell_to_Pay_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/43/58/594358/7816401.3.jpg",Czarna Pantera (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Black_Panther_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/26/97/112697/7843588.3.jpg",451° Fahrenheita (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Fahrenheit_451_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/32/36/773236/7827735.3.jpg",Czerwona jaskółka (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Red_Sparrow_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/19/26/791926/7843789.6.jpg",Ibiza (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Ibiza_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/79/13/757913/7829350.3.jpg",Wieczór gier (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Game_Night_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/18/78/751878/7817462.6.jpg",Bękarty (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Father_Figures_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/75/08/747508/7847053.3.jpg",Tygrysy ze stacji Shagou (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Railroad_Tigers_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/04/55/760455/7739830.3.jpg",Skarbiec (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Trust_2016.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/56/30/595630/7747230.3.jpg",Agent i pół (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Central_Intelligence_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/77/65/747765/7831273.3.jpg",Pogromca demonów (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Dont_Kill_It_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/40/82/764082/7779030.3.jpg",Strange Weather (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Strange_Weather_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/79/11/777911/7798738.3.jpg",Agentka specjalnej troski (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Raid_dingue_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/24/94/762494/7756001.3.jpg",Egzamin (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Graduation_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/54/22/745422/7845799.3.jpg",Bez snu (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Sleepless_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/57/61/775761/7806399.3.jpg",Dave w labiryncie (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Dave_Made_a_Maze_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/60/10/796010/7822626.3.jpg",Salut 7 (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Salyut_7_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/57/55/775755/7805249.3.jpg",Patti Cake$ (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Patti_Cakes_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/30/41/753041/7782355.3.jpg",Megan Leavey (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Megan_Leavey_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/72/05/777205/7801252.3.jpg",Powiernik królowej (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Victoria_Abdul_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/56/74/715674/7814302.6.jpg",Żegnaj Christopher Robin (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Goodbye_Christopher_Robin_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/77/22/767722/7782615.3.jpg",All Eyez on Me (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/All_Eyez_on_Me_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/89/99/758999/7845158.3.jpg",Breakable You (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Breakable_You_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/56/27/705627/7804758.3.jpg",Piła: Dziedzictwo (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Jigsaw_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/82/07/698207/7799420.3.jpg",Twój Vincent (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Loving_Vincent_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/79/00/317900/7804760.3.jpg",Suburbicon (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Suburbicon_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/40/65/794065/7827751.6.jpg",Acts of Vengeance (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Acts_of_Vengeance_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/10/07/781007/7838423.3.jpg",Blok 99 (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Brawl_in_Cell_Block_99_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/20/42/792042/7831455.3.jpg",Nowość (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Newness_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/72/50/717250/7815013.3.jpg",Jumanji: Przygoda w dżungli (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Jumanji_Welcome_to_the_Jungle_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/50/64/275064/7797984.3.jpg",Tulipanowa gorączka (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Tulip_Fever_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/33/86/503386/7818393_1.3.jpg",Pomniejszenie (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Downsizing_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/92/14/789214/7802184.3.jpg",Ślepy punkt (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Dode_Hoek_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/24/90/762490/7831274.3.jpg",Miłość w ciemności (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Blind_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/27/29/802729/7852132.3.jpg",Jak (nie) zapomnieć o byłym (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Les_ex_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/12/86/781286/7800224.3.jpg",Biegnij Amelio! (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Amelie_rennt_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/82/45/778245/7837377.3.jpg",Roxanne Roxanne (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Roxanne_Roxanne_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/27/95/742795/7807162.3.jpg",Skazany (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Shot_Caller_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/67/00/796700/7818705.3.jpg",Bullet Head (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Bullet_Head_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/79/26/787926/7800290.3.jpg",Podzielony (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/QEDA_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/08/44/730844/7833139.3.jpg",Anihilacja (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Annihilation_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/19/32/791932/7803411.6.jpg",Roman J. Israel (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Roman_J_Israel_Esq_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/49/21/794921/7830591.6.jpg",Nie ma drugiej takiej (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Irreplaceable_You_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/28/53/782853/7809454.3.jpg",Welcome the Stranger (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Welcome_the_Stranger_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/22/89/762289/7795962.3.jpg",Frantz (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Frantz_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/31/56/803156/7833426.3.jpg",Benji (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Benji_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/70/89/317089/7239983.3.jpg",Watchmen. Strażnicy (2009)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Watchmen_2009_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/41/29/504129/7486770.6.jpg",Dredd (2012)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Dredd_2012_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/94/36/789436/7831897.3.jpg",Game Over, Man! (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Game_Over_Man_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/58/39/465839/7808432.3.jpg",Śmierć nadejdzie dziś (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Happy_Death_Day_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/34/52/783452/7792633.3.jpg",Spotkanie na szczycie (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/La_Cordillera_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/82/00/778200/7803921.3.jpg",Nasz najlepszy rok (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Ce_qui_nous_lie_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/54/09/775409/7801816.3.jpg",Borg/McEnroe. Między odwagą a szaleństwem (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Borg_McEnroe_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/50/81/795081/7818851.3.jpg",Wygłodniali (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Les_affames_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/61/38/786138/7818300.6.jpg",Wyznania mordercy (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Memoirs_of_a_Murderer_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/58/96/765896/7796363.3.jpg",Tom of Finland (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Tom_of_Finland_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/57/23/775723/7837734.3.jpg",Połączenia (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Landline_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/00/21/760021/7870899.3.jpg",Nowicjat (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Novitiate_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/42/71/774271/7839431.3.jpg",Złote wyjście (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Golden_Exits_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/74/73/787473/7808521.6.jpg",Złe mamuśki 2: Jak przetrwać święta (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/A_Bad_Moms_Christmas_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/66/02/796602/7815366.3.jpg",Rytuał (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Ritual_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/27/76/762776/7812923.3.jpg",Marshall (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Marshall_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/67/73/766773/7831712.3.jpg",Tylko dla odważnych (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Only_the_Brave_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/74/06/767406/7828023.3.jpg",Trzy billboardy za Ebbing, Missouri (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Three_Billboards_Outside_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/81/91/808191/7853179.3.jpg",Kawalerskie życie (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Bachelors_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/34/96/743496/7801653.3.jpg",Kingsman: Złoty Krąg (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Kingsman_The_Golden_Circle_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/83/11/628311/7799649.3.jpg",American Assassin (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/American_Assassin_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/67/02/786702/7820657.3.jpg",Król polki (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Polka_King_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/64/10/786410/7799357.3.jpg",Botoks (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Botoks_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/56/15/595615/7801423.3.jpg",Ptaki śpiewają w Kigali (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Ptaki_spiewaja_w_Kigali_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/02/64/710264/7808509.6.jpg",Geostorm (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Geostorm_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/85/99/788599/7800357.3.jpg",Na układy nie ma rady (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Na_uklady_nie_ma_rady_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/61/23/716123/7831709.3.jpg",Chwała bohaterom (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Thank_You_for_Your_Service_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/76/90/787690/7845729.3.jpg",Profesor Marston i Wonder Women (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Professor_Marston_and_the_Wonder_Women_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/61/14/746114/7805251.3.jpg",Morderstwo w Orient Expressie (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Murder_on_the_Orient_Express_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/66/78/786678/7801422.3.jpg",The Square (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Square_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/38/12/763812/7831713.3.jpg",Wind River. Na przeklętej ziemi (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Wind_River_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/62/29/486229/7784167.3.jpg",Jednakowo inni (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Same_Kind_of_Different_as_Me_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/78/84/777884/7805140.3.jpg",Sprawa Chrystusa (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Case_for_Christ_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/86/59/788659/7810433.3.jpg",Qui pro quo (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Lun_dans_lautre_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/65/98/426598/7872554.3.jpg",Liga Sprawiedliwości (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Justice_League_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/47/04/674704/7830244.3.jpg",Paradoks Cloverfield (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/God_Particle_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/64/34/796434/7814051.3.jpg",Osobliwość (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Singularity_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/49/50/774950/7810446.3.jpg",Hagane no Renkinjutsushi (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Hagane_no_renkinjutsushi_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/54/66/755466/7803793.3.jpg",Człowiek z magicznym pudełkiem (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Czlowiek_z_magicznym_pudelkiem_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/49/58/754958/7835481.3.jpg",Cudzoziemiec (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Foreigner_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/02/04/720204/7735388.3.jpg",Captain Fantastic (2016)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Captain_Fantastic_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/27/18/772718/7814381.3.jpg",Co wiecie o swoich dziadkach? (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Daddys_Home_2_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/52/40/775240/7801817.3.jpg",Wszyscy moi mężczyźni (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Home_Again_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/79/70/707970/7810635.3.jpg",Thor: Ragnarok (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Thor_Ragnarock_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/92/55/779255/7813488.3.jpg",Dusza i ciało (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/On_Body_and_Soul_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/18/24/671824/7833152.3.jpg",Outsider (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Outsider_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/59/70/775970/7828022.3.jpg",Kształt wody (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Shape_of_Water_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/38/23/193823/7411321.3.jpg",Grzeczny i grzeszny (2009)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Youth_in_Revolt_2009_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/46/72/564672/7813949.3.jpg",Plemiona Palos Verdes (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/The_Tribes_of_Palos_Verdes_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/74/74/797474/7817993.3.jpg",Świąteczny książę (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/A_Christmas_Prince_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/11/05/751105/7803920.3.jpg",Zgoda (2017)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Zgoda_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/76/95/787695/7833949.3.jpg",Pan "Wypadek" (2018)
+http://vodcdn-eu-01.planetapl.tv:80/vod/Accident_Man_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/32/71/613271/7831895.3.jpg",Bez słowa (2018)
 http://vodcdn-eu-01.planetapl.tv:80/vod/Mute_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Smerfy: Poszukiwacze zaginionej wioski
-http://vodcdn-eu-01.planetapl.tv:80/vod/Smurfs_The_Lost_Village_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Fernando HD
-http://vodcdn-eu-01.planetapl.tv:80/vod/Ferdinand_2017_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Fernando
-http://vodcdn-eu-01.planetapl.tv:80/vod/Ferdinand_2017_PL.dvd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Gdy spotkaliśmy się pierwszy raz HD
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/96/80/769680/7829829.6.jpg",Gdy spotkaliśmy się pierwszy raz (2018)
 http://vodcdn-eu-01.planetapl.tv:80/vod/When_We_First_Met_2018_PL.hd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Wampiry i świry.
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/68/64/576864/7341407.3.jpg",Wampiry i świry (2010)
 http://vodcdn-eu-01.planetapl.tv:80/vod/Vampires_Suck_2010_PL.dvd.m4v/index.m3u8
 #EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Kandydat.
 http://vodcdn-eu-01.planetapl.tv:80/vod/The_Manchurian_Candidate_2004_PL.dvd.m4v/index.m3u8
@@ -1116,8 +1068,6 @@ http://vodcdn-eu-01.planetapl.tv:80/vod/Quackerz_2016_PL.dvd.m4v/index.m3u8
 http://vodcdn-eu-01.planetapl.tv:80/vod/Hurok_2016_PL.dvd.m4v/index.m3u8
 #EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Witamy na Hawajach
 http://vodcdn-eu-01.planetapl.tv:80/vod/Aloha_2015_PL.dvd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Pitch Perfect
-http://vodcdn-eu-01.planetapl.tv:80/vod/Pitch_Perfect_2012_PL.dvd.m4v/index.m3u8
 #EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Piątek trzynastego VII: Nowa krew
 http://vodcdn-eu-01.planetapl.tv:80/vod/Friday_the_13th_Part_VII_1988_PL.dvd.m4v/index.m3u8
 #EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Piątek trzynastego IV: Ostatni rozdział
@@ -1230,8 +1180,6 @@ http://vodcdn-eu-01.planetapl.tv:80/vod/Tusk_2014_PL.dvd.m4v/index.m3u8
 http://vodcdn-eu-01.planetapl.tv:80/vod/Maigret_Sets_a_Trap_2016_PL.dvd.m4v/index.m3u8
 #EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Komórka
 http://vodcdn-eu-01.planetapl.tv:80/vod/Cellular_2004_PL.dvd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Łotr 1. Gwiezdne wojny - historie
-http://vodcdn-eu-01.planetapl.tv:80/vod/Rogue_One_2016_PL.dvd.m4v/index.m3u8
 #EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Diaz
 http://vodcdn-eu-01.planetapl.tv:80/vod/Diaz_2012_PL.dvd.m4v/index.m3u8
 #EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Pragnienie zemsty
@@ -1506,8 +1454,6 @@ http://vodcdn-eu-01.planetapl.tv:80/vod/Youth_in_Oregon_2016_PL.dvd.m4v/index.m3
 http://vodcdn-eu-01.planetapl.tv:80/vod/The_Bye_Bye_Man_2017_PL.dvd.m4v/index.m3u8
 #EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Dzień patriotów
 http://vodcdn-eu-01.planetapl.tv:80/vod/Patriots_Day_2016_PL.dvd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Death Race: Wyścig śmierci
-http://vodcdn-eu-01.planetapl.tv:80/vod/Death_Race_2008_PL.dvd.m4v/index.m3u8
 #EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Klątwa Śpiącej Królewny
 http://vodcdn-eu-01.planetapl.tv:80/vod/The_Curse_of_Sleeping_Beauty_2016_PL.dvd.m4v/index.m3u8
 #EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Family Man
@@ -1538,8 +1484,6 @@ http://vodcdn-eu-01.planetapl.tv:80/vod/Mission_Impossible_1996_PL.dvd.m4v/index
 http://vodcdn-eu-01.planetapl.tv:80/vod/Mission_Impossible_II_2000_PL.dvd.m4v/index.m3u8
 #EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Mission: Impossible III
 http://vodcdn-eu-01.planetapl.tv:80/vod/Mission_Impossible_III_2006_PL.dvd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Więzień labiryntu: Próby ognia
-http://vodcdn-eu-01.planetapl.tv:80/vod/Maze_Runner_The_Scorch_Trials_2015_PL.dvd.m4v/index.m3u8
 #EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Dumni i wściekli
 http://vodcdn-eu-01.planetapl.tv:80/vod/Pride_2014_PL.dvd.m4v/index.m3u8
 #EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Dziewczyna z Alabamy
@@ -1784,8 +1728,6 @@ http://vodcdn-eu-01.planetapl.tv:80/vod/Oculus_2013_PL.dvd.m4v/index.m3u8
 http://vodcdn-eu-01.planetapl.tv:80/vod/Lady_Bloodfight_2016_PL.dvd.m4v/index.m3u8
 #EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Sztuka kochania. Historia Michaliny Wislockiej
 http://vodcdn-eu-01.planetapl.tv:80/vod/Historia_Michaliny_Wislockiej_2017_PL.dvd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Ciemniejsza strona Greya
-http://vodcdn-eu-01.planetapl.tv:80/vod/Fifty_Shades_Darker_2017_PL.dvd.m4v/index.m3u8
 #EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Prawdziwa zbrodnia
 http://vodcdn-eu-01.planetapl.tv:80/vod/True_Crime_1999_PL.dvd.m4v/index.m3u8
 #EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Rampage 2: Kara śmierci
@@ -2668,12 +2610,7 @@ http://vodcdn-eu-01.planetapl.tv:80/vod/Nan_bei_Shao_Lin_1986_PL.dvd.m4v/index.m
 http://vodcdn-eu-01.planetapl.tv:80/vod/Trapped_2002_PL.dvd.m4v/index.m3u8
 #EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Złodziej życia
 http://vodcdn-eu-01.planetapl.tv:80/vod/Taking_Lives_2004_PL.dvd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Naznaczony
-http://vodcdn-eu-01.planetapl.tv:80/vod/Insidious_2010_PL.dvd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Naznaczony: rozdział 2
-http://vodcdn-eu-01.planetapl.tv:80/vod/Insidious_Chapter_2_2013_PL.dvd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Naznaczony: rozdział 3
-http://vodcdn-eu-01.planetapl.tv:80/vod/Insidious_Chapter_3_2015_PL.dvd.m4v/index.m3u8
+
 #EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Powódź
 http://vodcdn-eu-01.planetapl.tv:80/vod/Hard_Rain_1998_PL.dvd.m4v/index.m3u8
 #EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Cabin Fever: Patient Zero
@@ -2844,8 +2781,6 @@ http://vodcdn-eu-01.planetapl.tv:80/vod/Elektra_2005_PL.dvd.m4v/index.m3u8
 http://vodcdn-eu-01.planetapl.tv:80/vod/Chasse_Galerie_2016_PL.dvd.m4v/index.m3u8
 #EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Herkules
 http://vodcdn-eu-01.planetapl.tv:80/vod/Hercules_1997_PL.dvd.m4v/index.m3u8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Shrek 2
-http://vodcdn-eu-01.planetapl.tv:80/vod/Shrek_2_2004_PL.dvd.m4v/index.m3u8
 #EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Straceni
 http://vodcdn-eu-01.planetapl.tv:80/vod/The_Forsaken_2001_PL.dvd.m4v/index.m3u8
 #EXTINF:-1 tvg-logo="xxxxxxxxxxxx",Pozwól mi wejść
